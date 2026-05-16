@@ -1,0 +1,1555 @@
+Supplier,Date,Location,Division,Purpose,Head of division,Vehicle Number,Vehicle Type,Total KM,Service,Repair,Number of Drivers,Driver Cost,Fuel Usage,Fuel Cost,Rental Cost
+Prime,2025-01-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PD-1184,4 X 4 Double cab,3517.85,0,0,0,0,0,0,297577.92
+Prime,2025-01-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4323,0,0,0,0,0,0,367952.25
+Prime,2025-01-01,Ampara,Sites Acquisition,,Azeem Azeez,PB-1711,Van Field Use,2287,0,0,0,0,0,0,144311.66
+Prime,2025-01-01,Ampara,Power,,Ruwan Rathnasinghe,PA-4400,Passenger Van,2739,0,0,0,0,0,0,191949.09
+Prime,2025-01-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4265,0,0,0,0,0,0,344102.94
+Prime,2025-01-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Van Field Use,2550,0,0,0,0,0,0,105673.75
+Prime,2025-01-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,2652,0,0,0,0,0,0,140718.82
+Prime,2025-01-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Van Field Use,2663,0,0,0,0,0,0,143465.2
+Prime,2025-01-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,1247.75,0,0,0,0,0,0,100929.87
+Prime,2025-01-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2310,0,0,0,0,0,0,192464.84
+Prime,2025-01-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,2795,0,0,0,0,0,0,206313.81
+Prime,2025-01-01,Badulla,RND,,Amila Nagasinghe,CAI-5961,Van Field Use,2199,0,0,0,0,0,0,137402.51
+Prime,2025-01-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1723,0,0,0,0,0,0,139984.13
+Prime,2025-01-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,2009,0,0,0,0,0,0,139500
+Prime,2025-01-01,Colombo,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven cars,2010,0,0,0,0,0,0,86400
+Prime,2025-01-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2514,0,0,0,0,0,0,212804.9
+Prime,2025-01-01,Galle,Projects,,Hasanga Silva,CAY-9312,Van Field Use,2794,0,0,0,0,0,0,156123.88
+Prime,2025-01-01,Galle,RND,,Amila Nagasinghe,KG-0080,Van Field Use,3117,0,0,0,0,0,0,177568.78
+Prime,2025-01-01,Galle,BTS Operation,,Chamara Prasanga,PG-4769,Self-Driven 4 X 4 Double cab,4017,0,0,0,0,0,0,207765
+Prime,2025-01-01,Homagama,BTS Operation,,Chamara Prasanga,CBE-7499,Van Field Use,2394,0,0,0,0,0,0,136061.58
+Prime,2025-01-01,Jaffna,Sites Acquisition,,Azeem Azeez,251-2648,Passenger Van,2780,0,0,0,0,0,0,207075.99
+Prime,2025-01-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,3522,0,0,0,0,0,0,265387.6
+Prime,2025-01-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2478,Passenger Van,2215,0,0,0,0,0,0,173578.55
+Prime,2025-01-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1988,0,0,0,0,0,0,139500
+Prime,2025-01-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Van Field Use,3003,0,0,0,0,0,0,168734.14
+Prime,2025-01-01,Kandy,Sites Acquisition,,Azeem Azeez,CBE-2571,Van Field Use,2515,0,0,0,0,0,0,135417.77
+Prime,2025-01-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2613,0,0,0,0,0,0,138869.16
+Prime,2025-01-01,Kandy,BTS Operation,,Chamara Prasanga,PB-7740,4 X 4 Double cab,398,0,0,0,0,0,0,45813.64
+Prime,2025-01-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2151,0,0,0,0,0,0,182674.66
+Prime,2025-01-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Van Field Use,2390,0,0,0,0,0,0,131392.08
+Prime,2025-01-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2687.09,0,0,0,0,0,0,224812.94
+Prime,2025-01-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1603.56,0,0,0,0,0,0,135000
+Prime,2025-01-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2550,0,0,0,0,0,0,132152.55
+Prime,2025-01-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAD-7553,Van Field Use,3596,0,0,0,0,0,0,190593.53
+Prime,2025-01-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBB-8946,Van Field Use,2968,0,0,0,0,0,0,161851.9
+Prime,2025-01-01,Kurunegala,Projects,,Hasanga Silva,CBJ-4380,Van Field Use,2856,0,0,0,0,0,0,155776.08
+Prime,2025-01-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2629,0,0,0,0,0,0,225033.05
+Prime,2025-01-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,2482,0,0,0,0,0,0,185674.45
+Prime,2025-01-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Van Field Use,2539,0,0,0,0,0,0,137462.57
+Prime,2025-01-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Van Field Use,2884,0,0,0,0,0,0,158970.46
+Prime,2025-01-01,Matara,RND,,Amila Nagasinghe,PE-9429,Passenger Van,3335,0,0,0,0,0,0,241935.15
+Prime,2025-01-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,2370.04,0,0,0,0,0,0,219800.21
+Prime,2025-01-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Van Field Use,2887,0,0,0,0,0,0,157049.88
+Prime,2025-01-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Van Field Use,2553,0,0,0,0,0,0,137478.78
+Prime,2025-01-01,Panadura,BTS Operation,,Chamara Prasanga,59-8951,Passenger Van,2140,0,0,0,0,0,0,186056.22
+Prime,2025-01-01,Panadura,Pool ,,Pool ,CAM-7753,Van Field Use,2313,0,0,0,0,0,0,131398.48
+Prime,2025-01-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2882,0,0,0,0,0,0,262411.6
+Prime,2025-01-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,GH-9060,Passenger Van,2886,0,0,0,0,0,0,235144.5
+Prime,2025-01-01,Rathnapura,RND,,Amila Nagasinghe,PJ-8253,Van Field Use,2170,0,0,0,0,0,0,133518.43
+Prime,2025-01-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAZ-3165,Van Field Use,2440,0,0,0,0,0,0,135109.31
+Prime,2025-01-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PE-4607,4 X 4 Double cab,2524,0,0,0,0,0,0,224736.2
+Prime,2025-01-01,Welikada,Pool ,,Pool ,CBC-6826,Van Field Use,3310,0,0,0,0,0,0,167053.47
+Prime,2025-01-01,Welikada,Pool ,,Pool ,CAN-9699,Van Field Use,2087,0,0,0,0,0,0,134395.42
+Prime,2025-01-01,Welikada,Pool ,,Pool ,CAS-6735,Van Field Use,3227,0,0,0,0,0,0,164027.79
+Prime,2025-01-01,Welikada,Pool ,,Pool ,CAS-9005,Van Field Use,2762.73,0,0,0,0,0,0,131969.66
+Prime,2025-01-01,Welikada,Pool ,,Pool ,PH-0505,Van Field Use,2263,0,0,0,0,0,0,121915.14
+Prime,2025-01-01,Welikada,Pool ,,Pool ,KC-9515,Van Field Use,2518.45,0,0,0,0,0,0,103833.58
+Prime,2025-01-01,Welikada,Pool ,,Pool ,KR-9804,Van Field Use,3067,0,0,0,0,0,0,120104.02
+Prime,2025-01-01,Welikada,Pool ,,Pool ,CAL-5177,Van Field Use,557,0,0,0,0,0,0,31856.71
+Prime,2025-01-01,Welikada,Pool ,,Pool ,CAD-0669,Van Field Use,3107,0,0,0,0,0,0,160031.71
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,PK-0755,Van Field Use,2459,0,0,0,0,0,0,114515.75
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,KX-8277,Van Field Use,2464,0,0,0,0,0,0,128752.71
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,CAF-7552,Van Field Use,2675,0,0,0,0,0,0,138445.24
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,CAU-5830,Van Field Use,2818,0,0,0,0,0,0,139778.65
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,CBF-3501,Van Field Use,2786,0,0,0,0,0,0,138728.4
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,CBJ-9817,Van Field Use,2306,0,0,0,0,0,0,130143.48
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,CAV-2913,Van Field Use,384,0,0,0,0,0,0,23470.59
+Prime,2025-01-01,Welikada,RND,,Amila Nagasinghe,CAK-9887,Van Field Use,3300,0,0,0,0,0,0,181261.54
+Prime,2025-01-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3091,0,0,0,0,0,0,253917.64
+Prime,2025-01-01,Welikada,Transmission Operations,,Chamara Prasanga,CAP-7454,Self-Driven cars,1273,0,0,0,0,0,0,86400
+Prime,2025-01-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven cars,1347,0,0,0,0,0,0,86400
+Prime,2025-01-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven cars,1729,0,0,0,0,0,0,86400
+Prime,2025-01-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven cars,1950,0,0,0,0,0,0,86400
+Prime,2025-01-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2771,0,0,0,0,0,0,208106.88
+Owned,2025-01-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,390,29048.33,0,2,180000,74.85,18141.61,0
+Owned,2025-01-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,4470,32548.21,83900,1,90000,389,94283.05,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,KY-7354,Car,1103,50070.96,46332.94,1,90000,0,19554.72,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,KY-7361,Car,1524,28450.69,0,1,37500,0,27184.41,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,2371,3477.97,10500,1,37500,331.31,80300.56,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,2202,28154.68,60372.19,1,90000,297.38,72075.88,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,3533,0,0,1,75000,439.79,106593.9,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,1756,27778.23,12950,1,75000,311.66,75536.96,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,2626,26879.43,159436,1,75000,428.61,103884.41,0
+Owned,2025-01-01,Head Office,Network Audit,,,NB-6152,Passenger Van,442,0,0,1,90000,36.68,8890.24,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3685,0,7200,2,180000,375.84,91092.7,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,3779,0,0,1,90000,448.08,110653.64,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,4984,16355.47,45000,1,90000,495.68,126537.67,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,3140,26554.63,52335,1,75000,355.8,87726.57,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,2882,0,0,1,90000,344.98,83612.83,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,1979,0,0,1,90000,208.23,50842.43,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,2865,27740.11,0,1,90000,337.07,81695.66,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,2478,0,0,1,30000,0,76894.98,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,2629,0,0,1,90000,328.96,81040.52,0
+Owned,2025-01-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,4474,0,0,2,180000,0,133116.03,0
+Owned,2025-01-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,4321,0,0,2,180000,548,134591.53,0
+Owned,2025-01-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,5125,0,0,1,90000,599.95,145411.61,0
+Owned,2025-01-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,2058,5442,0,2,180000,254.09,61585.01,0
+Owned,2025-01-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,3569,0,0,2,180000,360,100124.24,0
+Owned,2025-01-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,6074,0,0,2,180000,670,162389.83,0
+Owned,2025-01-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,3984,0,0,1,90000,449.93,109050.83,0
+Owned,2025-01-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2441,0,17930,2,180000,341.02,82654.73,0
+Owned,2025-01-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,4728,0,0,2,180000,428,122408,0
+Owned,2025-01-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,4797,7040,7040,2,180000,434,124124,0
+Owned,2025-01-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,6707,0,121859.65,,,711.24,172386.26,0
+Owned,2025-01-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1809,49517.49,261316.1,2,180000,255.69,61971.35,0
+Owned,2025-01-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2729,30505.45,0,,,322.2,78092.54,0
+Owned,2025-01-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,5956,0,0,2,180000,540.08,130901.72,0
+Owned,2025-01-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,3045,0,50873.64,2,180000,368.38,93777.7,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,2925,27999.42,40647,1,90000,292.43,70876.13,0
+Owned,2025-01-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,6184,0,0,2,180000,600,145423.73,0
+Owned,2025-01-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,3809,0,400,2,180000,330,79983.05,0
+Owned,2025-01-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,5298,31126.52,33175,2,180000,450,126824.03,0
+Owned,2025-01-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,4559,0,0,2,180000,444.28,107681.42,0
+Owned,2025-01-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,2605,0,0,2,180000,261.45,63368.39,0
+Owned,2025-01-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,3273,0,227298.66,,,341.01,82651.58,0
+Owned,2025-01-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,4683,0,65550.92,2,180000,491,128149.15,0
+Owned,2025-01-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,1864,0,148680.84,2,180000,213.2,56552.73,0
+Owned,2025-01-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,5726,0,0,2,180000,589.51,156370.56,0
+Owned,2025-01-01,Head Office,Administration,,,BFD-2154,Motorcycle,1339,0,0,,0,22.51,5894.04,0
+Owned,2025-01-01,Head Office,Administration,,,BFD-2166,Motorcycle,1203,0,1542.37,,0,23.52,6158.53,0
+Owned,2025-01-01,Head Office,Administration,,,BFD-2177,Motorcycle,1293,51645.38,0,,0,28.68,7509.75,0
+Owned,2025-01-01,Head Office,Administration,,,BFD-2190,Motorcycle,1998,0,608497.57,,0,30,7855.93,0
+Owned,2025-01-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1405,31451.72,0,,0,0,12883.73,0
+Owned,2025-01-01,Head Office,Administration,,,BFD-2258,Motorcycle,624,31311.34,55206.69,,0,28,7332.2,0
+Owned,2025-01-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1593,60781.88,26400,,0,30,7855.93,0
+Owned,2025-01-01,Head Office,Administration,,,BFD-2292,Motorcycle,1019,0,0,,0,29.25,7659.53,0
+Owned,2025-01-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1002,30460.97,0,,0,26,6808.47,0
+Owned,2025-01-01,Head Office,Finance,,,BFD-2320,Motorcycle,1428,0,207521.52,,0,30,7855.93,0
+Owned,2025-01-01,Head Office,Administration,,,BHI-8224,Motorcycle,397,60984.58,53669.96,,0,10,2618.64,0
+Prime,2025-02-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PD-1184,4 X 4 Double cab,3570.98,0,0,0,0,0,0,293222.26
+Prime,2025-02-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4680,0,0,0,0,0,0,393210
+Prime,2025-02-01,Ampara,Sites Acquisition,,Azeem Azeez,PB-1711,Van Field Use,3516,0,0,0,0,0,0,199747.42
+Prime,2025-02-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2761,0,0,0,0,0,0,217570.75
+Prime,2025-02-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4313,0,0,0,0,0,0,347499.03
+Prime,2025-02-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Van Field Use,2293,0,0,0,0,0,0,119313.09
+Prime,2025-02-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,2184,0,0,0,0,0,0,131227.66
+Prime,2025-02-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Van Field Use,2564,0,0,0,0,0,0,136978.49
+Prime,2025-02-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2693.53,0,0,0,0,0,0,226264.28
+Prime,2025-02-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,3358,0,0,0,0,0,0,254218.81
+Prime,2025-02-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,3311,0,0,0,0,0,0,247087.26
+Prime,2025-02-01,Badulla,RND,,Amila Nagasinghe,CAI-5961,Van Field Use,2821,0,0,0,0,0,0,151201.26
+Prime,2025-02-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,2113,0,0,0,0,0,0,136926.34
+Prime,2025-02-01,Chilaw,BTS Operation,,Chamara Prasanga,59-6646,Passenger Van,287,0,0,0,0,0,0,28064.29
+Prime,2025-02-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,2025,0,0,0,0,0,0,139500
+Prime,2025-02-01,Colombo,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven cars,1728,0,0,0,0,0,0,86400
+Prime,2025-02-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2345,0,0,0,0,0,0,210231.7
+Prime,2025-02-01,Galle,Projects,,Hasanga Silva,CAY-9312,Van Field Use,1944,0,0,0,0,0,0,137291.43
+Prime,2025-02-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Van Field Use,3368,0,0,0,0,0,0,183222.65
+Prime,2025-02-01,Galle,BTS Operation,,Chamara Prasanga,PG-4769,Self-Driven 4 X 4 Double cab,3775,0,0,0,0,0,0,196875
+Prime,2025-02-01,Homagama,BTS Operation,,Chamara Prasanga,CBE-7499,Van Field Use,2196,0,0,0,0,0,0,138117.79
+Prime,2025-02-01,Jaffna,Sites Acquisition,,Azeem Azeez,251-2648,Passenger Van,2486,0,0,0,0,0,0,187484.81
+Prime,2025-02-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,4058,0,0,0,0,0,0,301548.67
+Prime,2025-02-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2478,Passenger Van,1610,0,0,0,0,0,0,192144.25
+Prime,2025-02-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1721,0,0,0,0,0,0,139500
+Prime,2025-02-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Van Field Use,2308,0,0,0,0,0,0,138548.7
+Prime,2025-02-01,Kandy,Sites Acquisition,,Azeem Azeez,CBE-2571,Van Field Use,2093,0,0,0,0,0,0,133569.65
+Prime,2025-02-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2056,0,0,0,0,0,0,132568.38
+Prime,2025-02-01,Kandy,BTS Operation,,Chamara Prasanga,PJ-1477,Van Field Use,385,0,0,0,0,0,0,22040.33
+Prime,2025-02-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2167,0,0,0,0,0,0,183259.83
+Prime,2025-02-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Van Field Use,1515,0,0,0,0,0,0,125177.09
+Prime,2025-02-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2245.95,0,0,0,0,0,0,219065.34
+Prime,2025-02-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1046.5,0,0,0,0,0,0,139500
+Prime,2025-02-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2407,0,0,0,0,0,0,128294.65
+Prime,2025-02-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAD-7553,Van Field Use,2876,0,0,0,0,0,0,150317.82
+Prime,2025-02-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBB-8946,Van Field Use,2878,0,0,0,0,0,0,156267.96
+Prime,2025-02-01,Kurunegala,Projects,,Hasanga Silva,CBJ-4380,Van Field Use,2556,0,0,0,0,0,0,145002.74
+Prime,2025-02-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2437,0,0,0,0,0,0,215127.73
+Prime,2025-02-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,2498,0,0,0,0,0,0,186221.32
+Prime,2025-02-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Van Field Use,2379,0,0,0,0,0,0,137196.58
+Prime,2025-02-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Van Field Use,2374,0,0,0,0,0,0,136381.74
+Prime,2025-02-01,Matara,RND,,Amila Nagasinghe,PE-9429,Passenger Van,2960,0,0,0,0,0,0,208530.79
+Prime,2025-02-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,2157.4,0,0,0,0,0,0,216847.44
+Prime,2025-02-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Van Field Use,2295,0,0,0,0,0,0,134875.75
+Prime,2025-02-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Van Field Use,2154,0,0,0,0,0,0,132990.73
+Prime,2025-02-01,Panadura,BTS Operation,,Chamara Prasanga,59-8951,Passenger Van,1765,0,0,0,0,0,0,179126.48
+Prime,2025-02-01,Panadura,Pool ,,Pool ,CAM-7753,Van Field Use,2051,0,0,0,0,0,0,133736.83
+Prime,2025-02-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,3432,0,0,0,0,0,0,302166.6
+Prime,2025-02-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,3645,0,0,0,0,0,0,282243.93
+Prime,2025-02-01,Rathnapura,RND,,Amila Nagasinghe,PJ-8253,Van Field Use,2069,0,0,0,0,0,0,135588.33
+Prime,2025-02-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Van Field Use,2567,0,0,0,0,0,0,140941.71
+Prime,2025-02-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PE-4607,4 X 4 Double cab,1806,0,0,0,0,0,0,161443.14
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CBC-6826,Van Field Use,2798,0,0,0,0,0,0,136762.73
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAN-9699,Van Field Use,3500,0,0,0,0,0,0,196198.92
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAS-6735,Van Field Use,2928,0,0,0,0,0,0,155737.26
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAS-9005,Van Field Use,2867,0,0,0,0,0,0,126847.83
+Prime,2025-02-01,Welikada,Pool ,,Pool ,PH-0505,Van Field Use,2685,0,0,0,0,0,0,123230.68
+Prime,2025-02-01,Welikada,Pool ,,Pool ,KC-9515,Van Field Use,3219,0,0,0,0,0,0,170946.02
+Prime,2025-02-01,Welikada,Pool ,,Pool ,KR-9804,Van Field Use,2448,0,0,0,0,0,0,133411.93
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAZ-3165,Van Field Use,2821,0,0,0,0,0,0,147812.21
+Prime,2025-02-01,Welikada,Pool ,,Pool ,PK-0755,Van Field Use,4271,0,0,0,0,0,0,230541.01
+Prime,2025-02-01,Welikada,Pool ,,Pool ,KX-8277,Van Field Use,3001,0,0,0,0,0,0,158809.73
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAF-7552,Van Field Use,2649,0,0,0,0,0,0,138342.21
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAU-5830,Van Field Use,3979,0,0,0,0,0,0,217381.1
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CBF-3501,Van Field Use,2482,0,0,0,0,0,0,129729.75
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CBJ-9817,Van Field Use,2853,0,0,0,0,0,0,152210.7
+Prime,2025-02-01,Welikada,Pool ,,Pool ,CAK-9887,Van Field Use,3006,0,0,0,0,0,0,156249.8
+Prime,2025-02-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3315,0,0,0,0,0,0,245074.72
+Prime,2025-02-01,Welikada,Transmission Operations,,Chamara Prasanga,CAP-7454,Self-Driven cars,977,0,0,0,0,0,0,67885.71
+Prime,2025-02-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven cars,1470,0,0,0,0,0,0,86400
+Prime,2025-02-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven cars,1519,0,0,0,0,0,0,86400
+Prime,2025-02-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven cars,1960,0,0,0,0,0,0,86400
+Prime,2025-02-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,1926,0,0,0,0,0,0,189384.71
+Owned,2025-02-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,4836,50627.9,0,2,180000,490,137958.64,0
+Owned,2025-02-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,833,0,0,1,90000,107.21,26358.41,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,KY-7354,Car,1648,5597.46,12000,1,90000,0,27768.1,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,KY-7361,Car,646,0,38200,1,37500,0,8369.19,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,1197,0,0,1,37500,196.67,47666.26,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3030,0,0,1,90000,457.09,110787.19,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,4329,41738.41,87229.41,1,75000,481.99,119773.86,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,2250,23426.51,0,1,75000,381.64,92498.7,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,3699,21997.64,21245.76,1,75000,533.89,129400.94,0
+Owned,2025-02-01,Head Office,Network Audit,,,NB-6152,Passenger Van,2280,28887.13,89506.2,1,90000,250.69,62637.39,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3326,36489.74,52335,2,180000,360.6,87399.66,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,3349,0,313293.24,1,90000,396.7,98113.27,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,1772,0,528029.9,1,90000,208.1,50438.04,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,4306,27682.56,0,1,75000,493.48,119605.44,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,1979,31728.45,0,1,90000,256.17,62087.93,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,700,0,0,1,90000,132.67,32154.88,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,2639,10152.62,0,1,90000,353.45,85666.94,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,2431,26909.01,0,1,30000,0,87211.1,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,3008,5600,0,1,90000,400.3,97022.83,0
+Owned,2025-02-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,4530,0,0,2,180000,0,134470.9,0
+Owned,2025-02-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,4133,10780,0,2,180000,484.44,117415.36,0
+Owned,2025-02-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,4215,8280,0,1,90000,500,121186.44,0
+Owned,2025-02-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,4215,0,0,2,180000,445.61,108003.78,0
+Owned,2025-02-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,1845,5750,0,2,180000,190.87,46261.23,0
+Owned,2025-02-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,5331,0,0,2,180000,599.01,145183.78,0
+Owned,2025-02-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,3361,0,18700,1,90000,429.98,104215.49,0
+Owned,2025-02-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2500,0,0,2,180000,327.83,79457.1,0
+Owned,2025-02-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,6318,5600,0,2,180000,549.07,157033.45,0
+Owned,2025-02-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,3284,38000,0,2,180000,358,102388,0
+Owned,2025-02-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,7369,32197.45,2100,,,775,187838.98,0
+Owned,2025-02-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1750,0,0,2,180000,231.27,56052.37,0
+Owned,2025-02-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2932,0,23932.2,,,328.27,79563.75,0
+Owned,2025-02-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,3839,23562.07,0,2,180000,339.07,82180.16,0
+Owned,2025-02-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,1891,0,0,2,180000,235,58169.49,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,2052,0,2855.91,1,90000,258.55,62664.3,0
+Owned,2025-02-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,6338,24091.66,202822.66,2,180000,600,145423.73,0
+Owned,2025-02-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,3922,32612.94,0,2,180000,462,111976.27,0
+Owned,2025-02-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,5708,0,536.9,2,180000,510,145860,0
+Owned,2025-02-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,3098,33178.5,0,2,180000,316.55,76722.65,0
+Owned,2025-02-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3782,0,354192.73,2,180000,393,95252.54,0
+Owned,2025-02-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,3121,24419.38,6500,,,330.52,80109.57,0
+Owned,2025-02-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,5906,31722.73,0,2,180000,598,167744.07,0
+Owned,2025-02-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,2081,26610.97,5500,2,180000,264.3,72070.96,0
+Owned,2025-02-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,5063,0,0,2,180000,592.09,162939.86,0
+Owned,2025-02-01,Head Office,Administration,,,BFD-2154,Motorcycle,1371,0,59654.47,,0,29.06,7609.78,0
+Owned,2025-02-01,Head Office,Administration,,,BFD-2166,Motorcycle,1113,0,0,,0,24,6284.75,0
+Owned,2025-02-01,Head Office,Administration,,,BFD-2177,Motorcycle,960,0,0,,0,13.82,3618.97,0
+Owned,2025-02-01,Head Office,Administration,,,BFD-2190,Motorcycle,1845,0,212521.52,,0,30,7855.93,0
+Owned,2025-02-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1180,30154.96,4030,,0,0,10571.47,0
+Owned,2025-02-01,Head Office,Administration,,,BFD-2258,Motorcycle,696,0,0,,0,30,8276.27,0
+Owned,2025-02-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1544,37089.24,91278,,0,30,7855.93,0
+Owned,2025-02-01,Head Office,Administration,,,BFD-2292,Motorcycle,983,16683,104211.05,,0,30.02,7861.17,0
+Owned,2025-02-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1193,27577.05,0,,0,40,10474.58,0
+Owned,2025-02-01,Head Office,Finance,,,BFD-2320,Motorcycle,1520,5130,9950,,0,29.91,7832.89,0
+Owned,2025-02-01,Head Office,Administration,,,BHI-8224,Motorcycle,557,25584.79,0,,0,21.62,5660.46,0
+Prime,2025-03-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PD-1184,4 X 4 Double cab,3050.51,0,0,0,0,0,0,266622.57
+Prime,2025-03-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4410,0,0,0,0,0,0,424763.75
+Prime,2025-03-01,Ampara,Sites Acquisition,,Azeem Azeez,GE-5882,Van Field Use,2967,0,0,0,0,0,0,156752.32
+Prime,2025-03-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2803,0,0,0,0,0,0,238442
+Prime,2025-03-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,3702,0,0,0,0,0,0,344839.12
+Prime,2025-03-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Passenger Car,2388,0,0,0,0,0,0,133292.48
+Prime,2025-03-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,3956,0,0,0,0,0,0,209826.66
+Prime,2025-03-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2495,0,0,0,0,0,0,135373.23
+Prime,2025-03-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2023.77,0,0,0,0,0,0,223689.69
+Prime,2025-03-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2972,0,0,0,0,0,0,245813.98
+Prime,2025-03-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,2925,0,0,0,0,0,0,235031.08
+Prime,2025-03-01,Badulla,RND,,Amila Nagasinghe,CAJ-8482,Van Field Use,1011,0,0,0,0,0,0,24418.65
+Prime,2025-03-01,Badulla,RND,,Amila Nagasinghe,GS-6345,Passenger Van,1963,0,0,0,0,0,0,79389.53
+Prime,2025-03-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1980,0,0,0,0,0,0,127424.76
+Prime,2025-03-01,Chilaw,BTS Operation,,Chamara Prasanga,PF-7285,Passenger Van,1119,0,0,0,0,0,0,93749.02
+Prime,2025-03-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,2002,0,0,0,0,0,0,152000
+Prime,2025-03-01,Colombo,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven Passenger Car,2070,0,0,0,0,0,0,94176
+Prime,2025-03-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2645,0,0,0,0,0,0,235206.7
+Prime,2025-03-01,Galle,Projects,,Hasanga Silva,CAY-9312,Passenger Car,3453,0,0,0,0,0,0,192929.45
+Prime,2025-03-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,3776,0,0,0,0,0,0,208605.28
+Prime,2025-03-01,Homagama,BTS Operation,,Chamara Prasanga,CBE-7499,Passenger Car,2222,0,0,0,0,0,0,136832.93
+Prime,2025-03-01,Jaffna,Sites Acquisition,,Azeem Azeez,251-2648,Passenger Van,2023,0,0,0,0,0,0,153191.67
+Prime,2025-03-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,3346,0,0,0,0,0,0,272967.3
+Prime,2025-03-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2478,Passenger Van,2045,0,0,0,0,0,0,207040.23
+Prime,2025-03-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1833,0,0,0,0,0,0,152000
+Prime,2025-03-01,Kandy,BTS Operation,,Chamara Prasanga,PJ-1477,Van Field Use,334,0,0,0,0,0,0,7376.67
+Prime,2025-03-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,3273,0,0,0,0,0,0,181643.44
+Prime,2025-03-01,Kandy,Sites Acquisition,,Azeem Azeez,CBE-2571,Passenger Car,2283,0,0,0,0,0,0,136421.35
+Prime,2025-03-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2024,0,0,0,0,0,0,124070.3
+Prime,2025-03-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2476,0,0,0,0,0,0,199976.21
+Prime,2025-03-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2347,0,0,0,0,0,0,134452.47
+Prime,2025-03-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2163.84,0,0,0,0,0,0,221670.94
+Prime,2025-03-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1058.01,0,0,0,0,0,0,142000
+Prime,2025-03-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Passenger Car,2554,0,0,0,0,0,0,126371.72
+Prime,2025-03-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2717,0,0,0,0,0,0,130117.15
+Prime,2025-03-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAD-7553,Passenger Car,2964,0,0,0,0,0,0,160482.82
+Prime,2025-03-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBB-8946,Passenger Car,2978,0,0,0,0,0,0,165544.19
+Prime,2025-03-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2410,0,0,0,0,0,0,225142.49
+Prime,2025-03-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,3488,0,0,0,0,0,0,283927.2
+Prime,2025-03-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2386,0,0,0,0,0,0,139802.03
+Prime,2025-03-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2634,0,0,0,0,0,0,146917.59
+Prime,2025-03-01,Matara,RND,,Amila Nagasinghe,PE-9429,Passenger Van,3496,0,0,0,0,0,0,278865.04
+Prime,2025-03-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,2416.61,0,0,0,0,0,0,229090.23
+Prime,2025-03-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Passenger Car,1955,0,0,0,0,0,0,132170.19
+Prime,2025-03-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2335,0,0,0,0,0,0,134789.53
+Prime,2025-03-01,Panadura,BTS Operation,,Chamara Prasanga,59-8951,Passenger Van,2137,0,0,0,0,0,0,151341.67
+Prime,2025-03-01,Panadura,Pool ,,Pool ,CAM-7753,Passenger Car,2409,0,0,0,0,0,0,137069.01
+Prime,2025-03-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,3563,0,0,0,0,0,0,334305.5
+Prime,2025-03-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,3204,0,0,0,0,0,0,275830.75
+Prime,2025-03-01,Rathnapura,BTS Operation,,Chamara Prasanga,PG-4769,Self-Driven 4 X 4 Double cab,4782,0,0,0,0,0,0,283785.5
+Prime,2025-03-01,Rathnapura,RND,,Amila Nagasinghe,PJ-8253,Van Field Use,1861,0,0,0,0,0,0,127635.32
+Prime,2025-03-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,3106,0,0,0,0,0,0,169020.22
+Prime,2025-03-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PC-9586,4 X 4 Double cab,2402.12,0,0,0,0,0,0,234071.25
+Prime,2025-03-01,Welikada,Pool ,,Pool ,PB-5250,4 X 4 Double cab,1958,0,0,0,0,0,0,113978.6
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,4653,0,0,0,0,0,0,271953
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAN-9699,Van Field Use,3805,0,0,0,0,0,0,196658.55
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,4014,0,0,0,0,0,0,235810.5
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAS-9005,Passenger Car,3723,0,0,0,0,0,0,198288.25
+Prime,2025-03-01,Welikada,Pool ,,Pool ,PH-0505,Van Field Use,2545,0,0,0,0,0,0,121019.71
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3231,0,0,0,0,0,0,190855.75
+Prime,2025-03-01,Welikada,Pool ,,Pool ,KR-9804,Van Field Use,3140,0,0,0,0,0,0,156166.59
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,4798,0,0,0,0,0,0,280458.25
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,3819,0,0,0,0,0,0,205090.9
+Prime,2025-03-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3501,0,0,0,0,0,0,192609.28
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAF-7552,Van Field Use,3630,0,0,0,0,0,0,185692.22
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAU-5830,Passenger Car,4060,0,0,0,0,0,0,225992.86
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CBF-3501,Passenger Car,2515,0,0,0,0,0,0,133989.3
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,3219,0,0,0,0,0,0,176897.66
+Prime,2025-03-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,4565,0,0,0,0,0,0,255347.86
+Prime,2025-03-01,Welikada,Transmission Operations,,Chamara Prasanga,CAP-7454,Self-Driven Passenger Car,1389,0,0,0,0,0,0,90000
+Prime,2025-03-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1703,0,0,0,0,0,0,96800.5
+Prime,2025-03-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1324,0,0,0,0,0,0,90000
+Prime,2025-03-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven Passenger Car,1798,0,0,0,0,0,0,94176
+Prime,2025-03-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2765,0,0,0,0,0,0,170205.95
+Owned,2025-03-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,3743,23200.12,323663.12,2,180000,376.12,96526.93,0
+Owned,2025-03-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,4321,31071.32,185474.52,1,90000,412,99857.63,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,KY-7354,Car,1948,33200,0,1,90000,27.04,37225.6,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,KY-7361,Car,2261,16963.87,0,1,37500,0,41794.61,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,1978,0,0,1,37500,307.68,76535.78,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,5494,35730.03,121607.5,1,90000,693.83,170871.18,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,4347,0,0,1,75000,495.97,121954.03,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,4125,0,0,1,75000,551.24,133605.87,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,2403,0,56050,1,75000,333.96,80943.57,0
+Owned,2025-03-01,Head Office,Network Audit,,,NB-6152,Passenger Van,3252,0,473933.43,1,90000,298.93,73212.45,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3969,27365.22,4000,2,180000,487.76,118219.31,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,4126,24884.94,76982.42,1,90000,573.32,138956.49,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,4742,0,0,1,90000,516.55,134075.31,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,3458,0,240806.55,1,75000,454.61,111799.58,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,2001,0,72500,1,90000,254.67,61724.62,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,1652,53753.96,216110.7,1,90000,195.62,49375.72,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,3685,56578.18,0,1,90000,434.6,105335.26,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,3125,79716.48,185390,1,30000,0,90029.16,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,3416,0,675,1,90000,405.68,98326.8,0
+Owned,2025-03-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,2942,8770,0,2,180000,0,80225.42,0
+Owned,2025-03-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,5721,0,15380,2,180000,619.52,150154.85,0
+Owned,2025-03-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,4090,0,45250,1,90000,534,129427.12,0
+Owned,2025-03-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,5211,9600,20041.5,2,180000,520,126033.9,0
+Owned,2025-03-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,3584,0,0,2,180000,386.16,103672.82,0
+Owned,2025-03-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,4356,6950,0,2,180000,499.73,121121,0
+Owned,2025-03-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4499,0,0,1,90000,440.14,106678,0
+Owned,2025-03-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,3209,5720,0,2,180000,403,98049.15,0
+Owned,2025-03-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,4777,0,9086.02,2,180000,496.03,141864.29,0
+Owned,2025-03-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,5362,0,0,2,180000,502.27,143648.08,0
+Owned,2025-03-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,7931,0,3800,,,883,214015.25,0
+Owned,2025-03-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1935,0,0,2,180000,313.12,75891.8,0
+Owned,2025-03-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2366,62940,37233,,,289.86,70254.2,0
+Owned,2025-03-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,3234,0,0,2,180000,309.82,75091.24,0
+Owned,2025-03-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,4398,32566.46,369494.01,2,180000,512,124094.92,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,1456,27947.99,97165.95,1,90000,177.07,42917.21,0
+Owned,2025-03-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,2196,24091.66,32500,2,180000,216.6,52497.97,0
+Owned,2025-03-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,2596,0,0,2,180000,246,59623.73,0
+Owned,2025-03-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,4848,22667.09,192196.27,2,180000,431,123266,0
+Owned,2025-03-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,5194,0,0,2,180000,449.44,108932.07,0
+Owned,2025-03-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3804,18964.08,27824.36,2,180000,472.13,114431.51,0
+Owned,2025-03-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2833,29437.9,0,,,318.71,77246.66,0
+Owned,2025-03-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,5442,0,176388.34,2,180000,556.69,150334.34,0
+Owned,2025-03-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,2291,25687.89,0,2,180000,277.26,77772.94,0
+Owned,2025-03-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,7067,0,0,2,180000,699.67,194451.53,0
+Owned,2025-03-01,Head Office,Administration,,,BFD-2154,Motorcycle,1562,24299.23,159301.08,,0,30,7855.93,0
+Owned,2025-03-01,Head Office,Administration,,,BFD-2166,Motorcycle,1181,0,0,,0,13.01,3406.33,0
+Owned,2025-03-01,Head Office,Administration,,,BFD-2177,Motorcycle,1485,0,390376.16,,0,28.06,7347.92,0
+Owned,2025-03-01,Head Office,Administration,,,BFD-2190,Motorcycle,2174,23858.18,0,,0,30,7855.93,0
+Owned,2025-03-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1117,78472.14,49523.5,,0,0,7261.5,0
+Owned,2025-03-01,Head Office,Administration,,,BFD-2258,Motorcycle,463,0,100923.79,,0,30,7855.93,0
+Owned,2025-03-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1745,27930,38650,,0,30,7855.93,0
+Owned,2025-03-01,Head Office,Administration,,,BFD-2292,Motorcycle,1312,0,0,,0,27.65,7241.34,0
+Owned,2025-03-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1387,32390.97,65033.32,,0,39,10212.71,0
+Owned,2025-03-01,Head Office,Finance,,,BFD-2320,Motorcycle,1436,0,0,,0,30,7855.93,0
+Owned,2025-03-01,Head Office,Administration,,,BHI-8224,Motorcycle,1405,0,0,,0,30,7855.93,0
+Prime,2025-04-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PD-1184,4 X 4 Double cab,3785.11,0,0,0,0,0,0,355449.08
+Prime,2025-04-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4513,0,0,0,0,0,0,433518.75
+Prime,2025-04-01,Ampara,Sites Acquisition,,Azeem Azeez,GE-5882,Van Field Use,2124,0,0,0,0,0,0,120715.47
+Prime,2025-04-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2743,0,0,0,0,0,0,232533.5
+Prime,2025-04-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4484,0,0,0,0,0,0,431053.75
+Prime,2025-04-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Passenger Car,2998,0,0,0,0,0,0,170144.5
+Prime,2025-04-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,4162,0,0,0,0,0,0,228401.67
+Prime,2025-04-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2649,0,0,0,0,0,0,150652.5
+Prime,2025-04-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,3120.18,0,0,0,0,0,0,274963.02
+Prime,2025-04-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2301,0,0,0,0,0,0,217753
+Prime,2025-04-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,2591,0,0,0,0,0,0,222488.5
+Prime,2025-04-01,Badulla,Power,,Ruwan Rathnasinghe,GZ-6345,Passenger Van,2506,0,0,0,0,0,0,165738.87
+Prime,2025-04-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1829,0,0,0,0,0,0,132621.72
+Prime,2025-04-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1892,0,0,0,0,0,0,152000
+Prime,2025-04-01,Welikada,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven Passenger Car,1739,0,0,0,0,0,0,94176
+Prime,2025-04-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2241,0,0,0,0,0,0,235173.5
+Prime,2025-04-01,Galle,Projects,,Hasanga Silva,CAY-9312,Passenger Car,2483,0,0,0,0,0,0,52292
+Prime,2025-04-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,2957,0,0,0,0,0,0,166135
+Prime,2025-04-01,Rathnapura,BTS Operation,,Chamara Prasanga,PG-4769,Self-Driven 4 X 4 Double cab,1937,0,0,0,0,0,0,86133.33
+Prime,2025-04-01,Homagama,RND,,Amila Nagasinghe,PF-8530,Van Field Use,70,0,0,0,0,0,0,3383.64
+Prime,2025-04-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,2557,0,0,0,0,0,0,202894.88
+Prime,2025-04-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1233,0,0,0,0,0,0,0
+Prime,2025-04-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1725,0,0,0,0,0,0,154993.75
+Prime,2025-04-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,2106,0,0,0,0,0,0,142543.75
+Prime,2025-04-01,Kandy,BTS Operation,,Chamara Prasanga,PD-3222,4 X 4 Double cab,617,0,0,0,0,0,0,61994.83
+Prime,2025-04-01,Kandy,Sites Acquisition,,Azeem Azeez,CBJ-0791,Passenger Car,2394,0,0,0,0,0,0,145252.5
+Prime,2025-04-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2204,0,0,0,0,0,0,132731.72
+Prime,2025-04-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2007,0,0,0,0,0,0,216382.75
+Prime,2025-04-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2438,0,0,0,0,0,0,139787.75
+Prime,2025-04-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2532.53,0,0,0,0,0,0,239338.23
+Prime,2025-04-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1629.32,0,0,0,0,0,0,149468.23
+Prime,2025-04-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2653,0,0,0,0,0,0,138329.27
+Prime,2025-04-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAD-7553,Passenger Car,2875,0,0,0,0,0,0,154274
+Prime,2025-04-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBB-8946,Passenger Car,2805,0,0,0,0,0,0,164578.5
+Prime,2025-04-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2629,0,0,0,0,0,0,146710.37
+Prime,2025-04-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2547,0,0,0,0,0,0,238909.25
+Prime,2025-04-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,3883,0,0,0,0,0,0,326477.5
+Prime,2025-04-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2189,0,0,0,0,0,0,144921.75
+Prime,2025-04-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2300,0,0,0,0,0,0,143126.25
+Prime,2025-04-01,Matara,RND,,Amila Nagasinghe,PG-6402,Van Field Use,2349,0,0,0,0,0,0,44921.16
+Prime,2025-04-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,457.24,0,0,0,0,0,0,19000
+Prime,2025-04-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,1940.05,0,0,0,0,0,0,234228.5
+Prime,2025-04-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Passenger Car,2253,0,0,0,0,0,0,140449.25
+Prime,2025-04-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,1974,0,0,0,0,0,0,141976.75
+Prime,2025-04-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,1693,0,0,0,0,0,0,155637.54
+Prime,2025-04-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,3255,0,0,0,0,0,0,307557
+Prime,2025-04-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,2766,0,0,0,0,0,0,175848.13
+Prime,2025-04-01,Rathnapura,RND,,Amila Nagasinghe,PJ-8253,Van Field Use,1789,0,0,0,0,0,0,129140.72
+Prime,2025-04-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,2631,0,0,0,0,0,0,150625.5
+Prime,2025-04-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PC-9586,4 X 4 Double cab,2714.46,0,0,0,0,0,0,248677.45
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,4045,0,0,0,0,0,0,232268.5
+Prime,2025-04-01,Welikada,Pool ,,Pool ,KD-5684,Van Field Use,733,0,0,0,0,0,0,17957.71
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3448,0,0,0,0,0,0,204519
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAL-6987,Passenger Car,356,0,0,0,0,0,0,16308.75
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAZ-3508,Passenger Car,3695,0,0,0,0,0,0,212560.25
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3876,0,0,0,0,0,0,224155.5
+Prime,2025-04-01,Welikada,Pool ,,Pool ,KF-4993,Passenger Car,1996,0,0,0,0,0,0,41899.75
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,4480,0,0,0,0,0,0,258614.25
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,3524,0,0,0,0,0,0,198622.5
+Prime,2025-04-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3561,0,0,0,0,0,0,205434
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAU-5830,Passenger Car,3940,0,0,0,0,0,0,224797.75
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CBF-3501,Passenger Car,3545,0,0,0,0,0,0,202491
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,2898,0,0,0,0,0,0,166587.25
+Prime,2025-04-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,4989,0,0,0,0,0,0,285643.75
+Prime,2025-04-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,2745,0,0,0,0,0,0,252368
+Prime,2025-04-01,Welikada,Transmission Operations,,Chamara Prasanga,KS-9436,Self-Driven Passenger Car,1184,0,0,0,0,0,0,90000
+Prime,2025-04-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1541,0,0,0,0,0,0,91373.5
+Prime,2025-04-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1762,0,0,0,0,0,0,94176
+Prime,2025-04-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven Passenger Car,1714,0,0,0,0,0,0,97169
+Prime,2025-04-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2143,0,0,0,0,0,0,165696.57
+Owned,2025-04-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,2590,32617.3,19000,2,180000,235,56957.63,0
+Owned,2025-04-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,4437,37472.48,0,1,90000,388.4,94137.63,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,KY-7354,Car,824,9600,0,1,90000,52.35,13264.45,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,KY-7361,Car,2696,0,215505.58,1,37500,173.12,43867.1,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,680,41206.11,0,1,37500,72.25,17512.17,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3009,0,91440,1,90000,372.71,92777.92,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,4479,32788.41,0,1,75000,441.87,108406.6,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,3500,49848.95,0,1,75000,453.25,111731.72,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,4115,31191.33,45825,1,75000,629.72,153178.36,0
+Owned,2025-04-01,Head Office,Network Audit,,,NB-6152,Passenger Van,879,33461.89,0,1,90000,108.97,26411.13,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,2637,0,400567.29,2,180000,265.15,64263.96,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,3484,0,13500,1,90000,377.47,91487.76,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,3466,67325,0,1,90000,330.9,80201.67,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,4505,62988.37,13950,1,75000,536.88,132393.04,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,3376,0,0,1,90000,412.38,102524.78,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,732,0,0,1,90000,91.62,22206.2,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,4434,17178.05,7850,1,90000,524.79,128850.57,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,28344.1,0,1,30000,0,,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,4336,0,0,1,90000,557.14,136751.68,0
+Owned,2025-04-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,3960,0,86517,2,180000,476.11,115396.15,0
+Owned,2025-04-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,2315,15380,71137,2,180000,275,66652.54,0
+Owned,2025-04-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,3353,0,0,1,90000,412.36,99945.61,0
+Owned,2025-04-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,3387,0,0,2,180000,407.1,98670,0
+Owned,2025-04-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,5736,0,0,2,180000,621.32,172404.19,0
+Owned,2025-04-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,5260,0,0,2,180000,590,144144.07,0
+Owned,2025-04-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,3535,8740,0,1,90000,379.66,92019.29,0
+Owned,2025-04-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2655,0,0,2,180000,322,78044.07,0
+Owned,2025-04-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,4704,5600,0,2,180000,414.01,118406.57,0
+Owned,2025-04-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,4666,0,0,2,180000,456.2,130473.2,0
+Owned,2025-04-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,6041,38302.79,0,,,600,145423.73,0
+Owned,2025-04-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,2026,0,0,2,180000,254.64,63243.01,0
+Owned,2025-04-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2621,0,0,,,333.66,80869.65,0
+Owned,2025-04-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,4669,0,0,2,180000,386.04,93566.11,0
+Owned,2025-04-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,4726,0,0,2,180000,540,135803.39,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,1369,65727.12,0,1,90000,135.18,32763,0
+Owned,2025-04-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,6045,34874.61,0,2,180000,560,135728.81,0
+Owned,2025-04-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,5255,0,0,2,180000,539.35,130723.81,0
+Owned,2025-04-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,5243,0,0,2,180000,473,130740.78,0
+Owned,2025-04-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,4294,0,0,2,180000,475.85,118372.12,0
+Owned,2025-04-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3385,0,0,2,180000,336,81437.29,0
+Owned,2025-04-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2900,0,0,,,313.38,75955.78,0
+Owned,2025-04-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,7037,46442.33,0,2,180000,662.01,182970.41,0
+Owned,2025-04-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,2761,0,78519.63,2,180000,281.03,78830.74,0
+Owned,2025-04-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,3696,105746.87,0,2,180000,429.33,117537.74,0
+Owned,2025-04-01,Head Office,Administration,,,BFD-2154,Motorcycle,932,0,800,,0,23,5827.97,0
+Owned,2025-04-01,Head Office,Administration,,,BFD-2166,Motorcycle,1026,23010.21,0,,0,13.03,3301.16,0
+Owned,2025-04-01,Head Office,Administration,,,BFD-2177,Motorcycle,850,30529.04,0,,0,12.96,3282.67,0
+Owned,2025-04-01,Head Office,Administration,,,BFD-2190,Motorcycle,2018,0,0,,0,30,7601.69,0
+Owned,2025-04-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1258,0,0,,0,38.94,9867.76,0
+Owned,2025-04-01,Head Office,Administration,,,BFD-2258,Motorcycle,452,28220.95,0,,0,25,6334.75,0
+Owned,2025-04-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1550,0,0,,0,30,7601.69,0
+Owned,2025-04-01,Head Office,Administration,,,BFD-2292,Motorcycle,978,26449.57,0,,0,35.03,8876.25,0
+Owned,2025-04-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1277,0,0,,0,50,12669.49,0
+Owned,2025-04-01,Head Office,Finance,,,BFD-2320,Motorcycle,1536,29550,19821.64,,0,29.96,7592.32,0
+Owned,2025-04-01,Head Office,Administration,,,BHI-8224,Motorcycle,1271,62600.48,0,,0,30,7601.69,0
+Prime,2025-05-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,1830,0,0,0,0,0,0,103588.33
+Prime,2025-05-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4566,0,0,0,0,0,0,431942.64
+Prime,2025-05-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2745,0,0,0,0,0,0,233392.82
+Prime,2025-05-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4496,0,0,0,0,0,0,426085.74
+Prime,2025-05-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Passenger Car,2251,0,0,0,0,0,0,142335
+Prime,2025-05-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,1928,0,0,0,0,0,0,73890
+Prime,2025-05-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,3368,0,0,0,0,0,0,180860.05
+Prime,2025-05-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,3101,0,0,0,0,0,0,174381.15
+Prime,2025-05-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2579.22,0,0,0,0,0,0,239687.96
+Prime,2025-05-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2416,0,0,0,0,0,0,215789.92
+Prime,2025-05-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,2491,0,0,0,0,0,0,212293.42
+Prime,2025-05-01,Badulla,RND,,Amila Nagasinghe,GS-6345,Passenger Van,2483,0,0,0,0,0,0,163111.35
+Prime,2025-05-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,2264,0,0,0,0,0,0,133002.31
+Prime,2025-05-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,2905,0,0,0,0,0,0,247880.77
+Prime,2025-05-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1981,0,0,0,0,0,0,152000
+Prime,2025-05-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2928,0,0,0,0,0,0,267951.18
+Prime,2025-05-01,Galle,Projects,,Hasanga Silva,KP-4632,Passenger Car,1157,0,0,0,0,0,0,34391.93
+Prime,2025-05-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,2811,0,0,0,0,0,0,157808.4
+Prime,2025-05-01,Homagama,RND,,Amila Nagasinghe,CAX-2567,Passenger Car,1758,0,0,0,0,0,0,141201
+Prime,2025-05-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,4830,0,0,0,0,0,0,403219.52
+Prime,2025-05-01,Jaffna,Sites Acquisition,,Azeem Azeez,251-2648,Passenger Van,974,0,0,0,0,0,0,26435.45
+Prime,2025-05-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1477,0,0,0,0,0,0,178352
+Prime,2025-05-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1831,0,0,0,0,0,0,152000
+Prime,2025-05-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,2357,0,0,0,0,0,0,137252.5
+Prime,2025-05-01,Kandy,BTS Operation,,Chamara Prasanga,PB-3222,4 X 4 Double cab,2331,0,0,0,0,0,0,224416.07
+Prime,2025-05-01,Kandy,Sites Acquisition,,Azeem Azeez,CBJ-0791,Passenger Car,2020,0,0,0,0,0,0,142098.75
+Prime,2025-05-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2294,0,0,0,0,0,0,131632.06
+Prime,2025-05-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2167,0,0,0,0,0,0,211348.42
+Prime,2025-05-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2210,0,0,0,0,0,0,140087.5
+Prime,2025-05-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2002.84,0,0,0,0,0,0,218645.72
+Prime,2025-05-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1408.75,0,0,0,0,0,0,142000
+Prime,2025-05-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2488,0,0,0,0,0,0,127993.81
+Prime,2025-05-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,2501,0,0,0,0,0,0,135510.4
+Prime,2025-05-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBB-8946,Passenger Car,3530,0,0,0,0,0,0,202413.75
+Prime,2025-05-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2753,0,0,0,0,0,0,149877.1
+Prime,2025-05-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2677,0,0,0,0,0,0,246396.26
+Prime,2025-05-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,2466,0,0,0,0,0,0,213427.42
+Prime,2025-05-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2403,0,0,0,0,0,0,142240.5
+Prime,2025-05-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2547,0,0,0,0,0,0,143852.55
+Prime,2025-05-01,Matara,RND,,Amila Nagasinghe,PG-6402,Van Field Use,3320,0,0,0,0,0,0,138911.69
+Prime,2025-05-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,2179.94,0,0,0,0,0,0,204653.86
+Prime,2025-05-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,1820.91,0,0,0,0,0,0,231273.17
+Prime,2025-05-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Passenger Car,2498,0,0,0,0,0,0,139048
+Prime,2025-05-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2161,0,0,0,0,0,0,143847
+Prime,2025-05-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,1761,0,0,0,0,0,0,111354.75
+Prime,2025-05-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,1873,0,0,0,0,0,0,186343.33
+Prime,2025-05-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,3645,0,0,0,0,0,0,327325.47
+Prime,2025-05-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,3013,0,0,0,0,0,0,248314.35
+Prime,2025-05-01,Rathnapura,RND,,Amila Nagasinghe,PJ-8253,Van Field Use,2262,0,0,0,0,0,0,127710.31
+Prime,2025-05-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,2912,0,0,0,0,0,0,165895.05
+Prime,2025-05-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PC-9586,4 X 4 Double cab,2772.42,0,0,0,0,0,0,246717.4
+Prime,2025-05-01,Welikada,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven Passenger Car,1813,0,0,0,0,0,0,94176
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,3617,0,0,0,0,0,0,206944.05
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,1683,0,0,0,0,0,0,78903.76
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAP-8239,Passenger Car,1120,0,0,0,0,0,0,53923.06
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,2794,0,0,0,0,0,0,164471.1
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,1333,0,0,0,0,0,0,54652.48
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAZ-3508,Passenger Car,3467,0,0,0,0,0,0,192302.8
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3382,0,0,0,0,0,0,185065.3
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,684,0,0,0,0,0,0,23663.03
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3604,0,0,0,0,0,0,205882.35
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,4542,0,0,0,0,0,0,258806.55
+Prime,2025-05-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3215,0,0,0,0,0,0,183540
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAU-5830,Passenger Car,3056,0,0,0,0,0,0,164747.9
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CBF-3501,Passenger Car,2084,0,0,0,0,0,0,117887.5
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,3290,0,0,0,0,0,0,189681.75
+Prime,2025-05-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,3711,0,0,0,0,0,0,213963.9
+Prime,2025-05-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,4754,0,0,0,0,0,0,428064.1
+Prime,2025-05-01,Welikada,Transmission Operations,,Chamara Prasanga,KO-8066,Self-Driven Passenger Car,1556,0,0,0,0,0,0,91876
+Prime,2025-05-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1687,0,0,0,0,0,0,96264.5
+Prime,2025-05-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1342,0,0,0,0,0,0,90000
+Prime,2025-05-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven Passenger Car,2063,0,0,0,0,0,0,94176
+Prime,2025-05-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2239,0,0,0,0,0,0,161615.1
+Owned,2025-05-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,2524,0,353750.26,2,180000,228.28,53007.16,0
+Owned,2025-05-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,4233,0,176000,1,90000,391,90791.53,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,KY-7354,Car,1875,44640,0,1,90000,122.93,30524.89,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,KY-7361,Car,2910,28331.84,0,1,37500,183.02,46404.43,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,1375,0,0,1,37500,185.4,43050.97,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3170,33974.24,92039.82,1,90000,365.76,87479.61,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,4200,0,12300,1,75000,432.17,100350.64,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,3620,25808.06,0,1,75000,507.11,117752.66,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,4931,62237.24,0,1,75000,580.68,138816.46,0
+Owned,2025-05-01,Head Office,Network Audit,,,NB-6152,Passenger Van,689,31021.54,0,1,90000,89.76,20841.42,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,4059,28281.22,0,2,180000,496.16,115210.03,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,1788,0,0,1,90000,228.41,54877.09,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,4120,27125,0,1,90000,481.67,111845.87,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,4435,0,0,1,75000,532.46,123638.32,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,2256,60879.31,0,1,90000,266.06,61778.87,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,1685,0,82939.79,1,90000,252.62,60331.08,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,4707,29087.46,62545.76,1,90000,540.14,125421.18,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,0,3868,1,30000,0,,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,4442,10260,0,1,90000,484.98,112614.7,0
+Owned,2025-05-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5420,0,0,2,180000,603,140018.64,0
+Owned,2025-05-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,4474,0,10040,2,180000,499.99,116100.07,0
+Owned,2025-05-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,3772,0,0,1,90000,491.21,114060.63,0
+Owned,2025-05-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,4692,6550,550,2,180000,481,116454.64,0
+Owned,2025-05-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,4196,0,8350,2,180000,417,111332.24,0
+Owned,2025-05-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,5464,9130,8350,2,180000,620,143966.1,0
+Owned,2025-05-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4201,0,0,1,90000,440.42,102267.02,0
+Owned,2025-05-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2551,0,14200,2,180000,329,76394.92,0
+Owned,2025-05-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,5005,0,3000,2,180000,471.68,129240.32,0
+Owned,2025-05-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,4187,5750,0,2,180000,433.8,118861.2,0
+Owned,2025-05-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,5339,0,0,,,600,139322.03,0
+Owned,2025-05-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1559,0,0,2,180000,254.09,58999.4,0
+Owned,2025-05-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,3194,45940.18,0,,,407.37,95101.17,0
+Owned,2025-05-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,4310,0,132000,2,180000,403.76,93753.51,0
+Owned,2025-05-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,4308,73884.04,0,2,180000,489,114950.85,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,2852,0,147242.09,1,90000,274.31,63694.78,0
+Owned,2025-05-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,7820,0,0,2,180000,720,167186.44,0
+Owned,2025-05-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,5027,36099.77,138604.7,2,180000,475.31,110368.59,0
+Owned,2025-05-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,5115,34439.4,145808.26,2,180000,407,111518,0
+Owned,2025-05-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,5976,0,0,2,180000,495.01,114943,0
+Owned,2025-05-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3046,48111.05,7058.4,2,180000,416.34,96675.56,0
+Owned,2025-05-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2843,30333.35,29500,,,277.11,64345.88,0
+Owned,2025-05-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,6137,24796.15,0,2,180000,599.46,161116.53,0
+Owned,2025-05-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,2302,29570.91,0,2,180000,306.36,81044.19,0
+Owned,2025-05-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,4960,0,0,2,180000,499.72,139990.17,0
+Owned,2025-05-01,Head Office,Administration,,,BFD-2154,Motorcycle,1243,0,10721,,0,24,5959.32,0
+Owned,2025-05-01,Head Office,Administration,,,BFD-2166,Motorcycle,1149,0,0,,0,24,5960.32,0
+Owned,2025-05-01,Head Office,Administration,,,BFD-2177,Motorcycle,1156,0,178550,,0,13.88,3445.23,0
+Owned,2025-05-01,Head Office,Administration,,,BFD-2190,Motorcycle,1993,0,0,,0,30,7449.15,0
+Owned,2025-05-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1329,31182.97,91250,,0,42.17,10469.78,0
+Owned,2025-05-01,Head Office,Administration,,,BFD-2258,Motorcycle,572,0,28000,,0,26,6496.61,0
+Owned,2025-05-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1790,19016.25,180850,,0,30,7449.15,0
+Owned,2025-05-01,Head Office,Administration,,,BFD-2292,Motorcycle,1611,0,0,,0,37.57,9328.33,0
+Owned,2025-05-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1517,35489.62,13330,,0,42,10428.81,0
+Owned,2025-05-01,Head Office,Finance,,,BFD-2320,Motorcycle,266,4670,10561,,0,15,3724.58,0
+Owned,2025-05-01,Head Office,Administration,,,BHI-8224,Motorcycle,1734,32036.89,0,,0,30,7449.15,0
+Prime,2025-06-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,3670,0,0,0,0,0,0,339046.82
+Prime,2025-06-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4450,0,0,0,0,0,0,422236.92
+Prime,2025-06-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,3124,0,0,0,0,0,0,261127.75
+Prime,2025-06-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,3674,0,0,0,0,0,0,204198.85
+Prime,2025-06-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,3700,0,0,0,0,0,0,359484.42
+Prime,2025-06-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Passenger Car,2508,0,0,0,0,0,0,130643.45
+Prime,2025-06-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,2751,0,0,0,0,0,0,162684.15
+Prime,2025-06-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,4145,0,0,0,0,0,0,232638.91
+Prime,2025-06-01,A'pura,RND,,Amila Nagasinghe,CAW-9221,Van Field Use,908,0,0,0,0,0,0,26601.18
+Prime,2025-06-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2824,0,0,0,0,0,0,161904.6
+Prime,2025-06-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2980.11,0,0,0,0,0,0,256602.59
+Prime,2025-06-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,1931,0,0,0,0,0,0,213852.67
+Prime,2025-06-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,2653,0,0,0,0,0,0,225157.93
+Prime,2025-06-01,Badulla,RND,,Amila Nagasinghe,GS-6345,Passenger Van,3875,0,0,0,0,0,0,245565.73
+Prime,2025-06-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1615,0,0,0,0,0,0,115981.53
+Prime,2025-06-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,2437,0,0,0,0,0,0,213049.42
+Prime,2025-06-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1959,0,0,0,0,0,0,152000
+Prime,2025-06-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2303,0,0,0,0,0,0,230422.67
+Prime,2025-06-01,Galle,Projects,,Hasanga Silva,KP-4632,Passenger Car,4752,0,0,0,0,0,0,267421.8
+Prime,2025-06-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,4428,0,0,0,0,0,0,248975.7
+Prime,2025-06-01,Homagama,BTS Operation,,Chamara Prasanga,CAX-2567,Passenger Car,1783,0,0,0,0,0,0,139500
+Prime,2025-06-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,3837,0,0,0,0,0,0,323731.46
+Prime,2025-06-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,956,0,0,0,0,0,0,66654.42
+Prime,2025-06-01,Jaffna,Sites Acquisition,,Azeem Azeez,251-2648,Passenger Van,1413,0,0,0,0,0,0,24769.81
+Prime,2025-06-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1957,0,0,0,0,0,0,0
+Prime,2025-06-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1554,0,0,0,0,0,0,145118.5
+Prime,2025-06-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,2373,0,0,0,0,0,0,144508.5
+Prime,2025-06-01,Kandy,BTS Operation,,Chamara Prasanga,PB-3222,4 X 4 Double cab,2300,0,0,0,0,0,0,233541.17
+Prime,2025-06-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,2225,0,0,0,0,0,0,127237.81
+Prime,2025-06-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2150,0,0,0,0,0,0,130450.81
+Prime,2025-06-01,Kandy,RND,,Amila Nagasinghe,PJ-1477,Van Field Use,1657,0,0,0,0,0,0,37505.9
+Prime,2025-06-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2351,0,0,0,0,0,0,212529.67
+Prime,2025-06-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2413,0,0,0,0,0,0,136015.75
+Prime,2025-06-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,1764.56,0,0,0,0,0,0,235242.17
+Prime,2025-06-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1072.26,0,0,0,0,0,0,108333.33
+Prime,2025-06-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2628,0,0,0,0,0,0,134317.6
+Prime,2025-06-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,2786,0,0,0,0,0,0,157134.9
+Prime,2025-06-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBB-8946,Passenger Car,2838,0,0,0,0,0,0,163612.95
+Prime,2025-06-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,3464,0,0,0,0,0,0,191402.83
+Prime,2025-06-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2422,0,0,0,0,0,0,231745.67
+Prime,2025-06-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,3116,0,0,0,0,0,0,263160.39
+Prime,2025-06-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2775,0,0,0,0,0,0,159099
+Prime,2025-06-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2899,0,0,0,0,0,0,163877.85
+Prime,2025-06-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,1334.69,0,0,0,0,0,0,112742.25
+Prime,2025-06-01,Matara,BTS Operation,,Chamara Prasanga,JH-4926,Passenger Van,3762,0,0,0,0,0,0,221340.78
+Prime,2025-06-01,Nittambuwa,Projects,,Hasanga Silva,KQ-0249,Van Field Use,543,0,0,0,0,0,0,33850.44
+Prime,2025-06-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,1561.7,0,0,0,0,0,0,143194.19
+Prime,2025-06-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Passenger Car,2631,0,0,0,0,0,0,152590.65
+Prime,2025-06-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,1910,0,0,0,0,0,0,142098.75
+Prime,2025-06-01,Panadura,BTS Operation,,Chamara Prasanga,CBG-3756,Passenger Car,1827,0,0,0,0,0,0,141248.25
+Prime,2025-06-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,1890,0,0,0,0,0,0,212671.42
+Prime,2025-06-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2667,0,0,0,0,0,0,253144.56
+Prime,2025-06-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,2674,0,0,0,0,0,0,233572
+Prime,2025-06-01,Rathnapura,RND,,Amila Nagasinghe,PJ-8253,Van Field Use,2798,0,0,0,0,0,0,147232.45
+Prime,2025-06-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,3384,0,0,0,0,0,0,192202.35
+Prime,2025-06-01,Rathnapura,BTS Operation,,Chamara Prasanga,JD-0477,4 X 4 Double cab,1461,0,0,0,0,0,0,92143.25
+Prime,2025-06-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PC-9586,4 X 4 Double cab,2564.73,0,0,0,0,0,0,238417.3
+Prime,2025-06-01,Welikada,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven Passenger Car,1856,0,0,0,0,0,0,94176
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,4135,0,0,0,0,0,0,228249.25
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,2823,0,0,0,0,0,0,161851.2
+Prime,2025-06-01,Welikada,Pool ,,Pool ,KD-5684,Passenger Car,3238,0,0,0,0,0,0,188742.45
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3741,0,0,0,0,0,0,219928.65
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,4824,0,0,0,0,0,0,275130.6
+Prime,2025-06-01,Welikada,Pool ,,Pool ,KF-4993,Passenger Car,3536,0,0,0,0,0,0,182810.4
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,4098,0,0,0,0,0,0,234498.45
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,3864,0,0,0,0,0,0,219146.85
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,4103,0,0,0,0,0,0,236371.95
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,4506,0,0,0,0,0,0,257267.4
+Prime,2025-06-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3681,0,0,0,0,0,0,209705.4
+Prime,2025-06-01,Welikada,Pool ,,Pool ,KS-2082,Passenger Car,3636,0,0,0,0,0,0,209386.65
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CBF-3501,Passenger Car,2678,0,0,0,0,0,0,145426.45
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,2948,0,0,0,0,0,0,162689.95
+Prime,2025-06-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,3247,0,0,0,0,0,0,178737.05
+Prime,2025-06-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,4229,0,0,0,0,0,0,374182.54
+Prime,2025-06-01,Welikada,Transmission Operations,,Chamara Prasanga,KO-8066,Self-Driven Passenger Car,1502,0,0,0,0,0,0,90067
+Prime,2025-06-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1150,0,0,0,0,0,0,90000
+Prime,2025-06-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1316,0,0,0,0,0,0,90000
+Prime,2025-06-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven Passenger Car,1990,0,0,0,0,0,0,94176
+Prime,2025-06-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2472,0,0,0,0,0,0,162560.1
+Owned,2025-06-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,1773,38155.71,0,2,180000,148.01,34367.49,0
+Owned,2025-06-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,3814,0,3550,1,90000,398,92416.95,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,KY-7354,Car,1461,21304.92,0,1,90000,93.83,23297.72,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,KY-7361,Car,3650,0,0,1,37500,222.34,56154.07,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,2633,41795,82658,1,37500,455.18,105693.41,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3008,66802.43,0,1,90000,367.37,85304.33,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,3354,21898.39,96590,1,75000,343.01,90640.25,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,4815,0,178800,1,75000,639.49,149974.6,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,4924,29800.29,34315,1,75000,557.14,129370.03,0
+Owned,2025-06-01,Head Office,Network Audit,,,NB-6152,Passenger Van,2787,31960.56,0,1,90000,309.46,71856.5,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,4446,64305.14,230227,2,180000,512.69,119049.05,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,3741,40673.55,0,1,90000,438.31,101776.84,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,2858,0,0,1,90000,295.84,68693.89,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,4818,29103.75,176000,1,75000,505.72,117430.59,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,2522,0,0,1,90000,340.17,78989.09,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,2819,27386.03,0,1,90000,292.09,68817.19,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,3638,29678.05,17500,1,90000,400.63,93028.11,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,25621.16,0,1,30000,0,,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,2561,7130,0,1,90000,251.63,60718.63,0
+Owned,2025-06-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5785,22310,14200,2,180000,663.49,154064.63,0
+Owned,2025-06-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,3301,0,0,2,180000,355.51,82550.63,0
+Owned,2025-06-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,3543,0,0,1,90000,492,114244.07,0
+Owned,2025-06-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,4963,0,0,2,180000,527.83,141698.56,0
+Owned,2025-06-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,0,7490,0,2,180000,0,,0
+Owned,2025-06-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,6022,0,0,2,180000,637,147913.56,0
+Owned,2025-06-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4073,0,145185,1,90000,448.31,104099.1,0
+Owned,2025-06-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2318,7380,0,2,180000,282.01,65483.68,0
+Owned,2025-06-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,1890,0,0,2,180000,160,40956.73,0
+Owned,2025-06-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,3830,0,0,2,180000,375.3,102832.2,0
+Owned,2025-06-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,7093,51629.68,243538.58,,,649.57,150833.05,0
+Owned,2025-06-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1784,0,0,2,180000,247.86,57554.16,0
+Owned,2025-06-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2401,0,0,,,316.53,73499.34,0
+Owned,2025-06-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,4176,37766.75,18308,2,180000,356.93,82880.82,0
+Owned,2025-06-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,3557,0,21876.8,2,180000,437,102652.54,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,4152,30031.71,0,1,90000,424.07,98470.26,0
+Owned,2025-06-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,5628,54471.27,0,2,180000,546.39,126874.31,0
+Owned,2025-06-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,4017,0,15000,2,180000,420,98888.14,0
+Owned,2025-06-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,4297,36986.9,0,2,180000,403,110422,0
+Owned,2025-06-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,5024,0,106100,2,180000,499.05,115881.1,0
+Owned,2025-06-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,2032,33405.85,9434.23,2,180000,175.63,40781.88,0
+Owned,2025-06-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,3222,0,0,,,340.23,79001.4,0
+Owned,2025-06-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,5343,27418.44,0,2,180000,499.01,135721.72,0
+Owned,2025-06-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,1811,15690,48645.21,2,180000,206.06,56752.44,0
+Owned,2025-06-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,6886,0,0,2,180000,687.25,192226.8,0
+Owned,2025-06-01,Head Office,Administration,,,BFD-2154,Motorcycle,1332,0,0,,0,29.53,7332.45,0
+Owned,2025-06-01,Head Office,Administration,,,BFD-2166,Motorcycle,1147,0,0,,0,24.67,6124.69,0
+Owned,2025-06-01,Head Office,Administration,,,BFD-2177,Motorcycle,1004,30626.6,39425,,0,27.18,6747.94,0
+Owned,2025-06-01,Head Office,Administration,,,BFD-2190,Motorcycle,481,29390.33,0,,0,30,7449.15,0
+Owned,2025-06-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1178,69458.37,16016,,0,39.64,9841.57,0
+Owned,2025-06-01,Head Office,Administration,,,BFD-2258,Motorcycle,499,0,0,,0,25,6207.63,0
+Owned,2025-06-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1719,26859.07,128709.07,,0,30,7449.15,0
+Owned,2025-06-01,Head Office,Administration,,,BFD-2292,Motorcycle,1112,0,0,,0,28.45,7063.53,0
+Owned,2025-06-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1637,30449.97,45000,,0,50,12415.25,0
+Owned,2025-06-01,Head Office,Finance,,,BFD-2320,Motorcycle,1913,41679.4,76880.31,,0,29.53,7332.45,0
+Owned,2025-06-01,Head Office,Administration,,,BHI-8224,Motorcycle,1284,0,0,,0,30,7449.15,0
+Prime,2025-07-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,3929,0,0,0,0,0,0,366703.15
+Prime,2025-07-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4965,0,0,0,0,0,0,473585.53
+Prime,2025-07-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,3014,0,0,0,0,0,0,256957.95
+Prime,2025-07-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,4797,0,0,0,0,0,0,276468.45
+Prime,2025-07-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4589,0,0,0,0,0,0,441501.45
+Prime,2025-07-01,A'pura,Civil,,Ravindra Wijesinghe,CBC-2132,Passenger Car,388,0,0,0,0,0,0,5741.19
+Prime,2025-07-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,3333,0,0,0,0,0,0,194974.8
+Prime,2025-07-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,3025,0,0,0,0,0,0,164848.39
+Prime,2025-07-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,3715,0,0,0,0,0,0,213894.75
+Prime,2025-07-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2984.94,0,0,0,0,0,0,277072.16
+Prime,2025-07-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,3520,0,0,0,0,0,0,301743.18
+Prime,2025-07-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,3228,0,0,0,0,0,0,274476.57
+Prime,2025-07-01,Badulla,RND,,Amila Nagasinghe,GS-6345,Passenger Van,2531,0,0,0,0,0,0,169685.55
+Prime,2025-07-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1711,0,0,0,0,0,0,111863.18
+Prime,2025-07-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,2606,0,0,0,0,0,0,225471.81
+Prime,2025-07-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,2067,0,0,0,0,0,0,152000
+Prime,2025-07-01,Galle,BTS Operation,,Chamara Prasanga,PE-6334,4 X 4 Double cab,2908,0,0,0,0,0,0,269470.72
+Prime,2025-07-01,Galle,Projects,,Hasanga Silva,KP-4632,Passenger Car,3226,0,0,0,0,0,0,189510.6
+Prime,2025-07-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,4066,0,0,0,0,0,0,231689.1
+Prime,2025-07-01,Homagama,BTS Operation,,Chamara Prasanga,CBE-7499,Passenger Car,878,0,0,0,0,0,0,54490.32
+Prime,2025-07-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,3957,0,0,0,0,0,0,337485.39
+Prime,2025-07-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,2463,0,0,0,0,0,0,217216.08
+Prime,2025-07-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1558,0,0,0,0,0,0,0
+Prime,2025-07-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1913,0,0,0,0,0,0,152000
+Prime,2025-07-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,2383,0,0,0,0,0,0,138218.48
+Prime,2025-07-01,Kandy,BTS Operation,,Chamara Prasanga,PB-3222,4 X 4 Double cab,3521,0,0,0,0,0,0,324734.26
+Prime,2025-07-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,2201,0,0,0,0,0,0,118602.93
+Prime,2025-07-01,Kandy,RND,,Amila Nagasinghe,HH-8942,Van Field Use,460,0,0,0,0,0,0,23071.98
+Prime,2025-07-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2553,0,0,0,0,0,0,140065.92
+Prime,2025-07-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,1795,0,0,0,0,0,0,214475.58
+Prime,2025-07-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2115,0,0,0,0,0,0,143208.75
+Prime,2025-07-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,1993.18,0,0,0,0,0,0,220700.81
+Prime,2025-07-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1114.12,0,0,0,0,0,0,142000
+Prime,2025-07-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2712,0,0,0,0,0,0,143649.51
+Prime,2025-07-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,3157,0,0,0,0,0,0,181207.2
+Prime,2025-07-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAJ-8634,Passenger Car,3330,0,0,0,0,0,0,197110.5
+Prime,2025-07-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,3341,0,0,0,0,0,0,187730.3
+Prime,2025-07-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2478,0,0,0,0,0,0,235723.33
+Prime,2025-07-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,3826,0,0,0,0,0,0,324672.66
+Prime,2025-07-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2413,0,0,0,0,0,0,148122.75
+Prime,2025-07-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2416,0,0,0,0,0,0,147272.25
+Prime,2025-07-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,2068.85,0,0,0,0,0,0,228779.07
+Prime,2025-07-01,Matara,BTS Operation,,Chamara Prasanga,JH-4926,Passenger Van,3272,0,0,0,0,0,0,213466.01
+Prime,2025-07-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,1645.42,0,0,0,0,0,0,214862.64
+Prime,2025-07-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Passenger Car,2490,0,0,0,0,0,0,148406.25
+Prime,2025-07-01,Panadura,Power,,Ruwan Rathnasinghe,CAJ-0725,Passenger Car,1964,0,0,0,0,0,0,132755.7
+Prime,2025-07-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,2033,0,0,0,0,0,0,144768
+Prime,2025-07-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,2052,0,0,0,0,0,0,218113.83
+Prime,2025-07-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2835,0,0,0,0,0,0,269566.63
+Prime,2025-07-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,2752,0,0,0,0,0,0,242814.24
+Prime,2025-07-01,Rathnapura,RND,,Amila Nagasinghe,KQ-5184,Passenger Car,2209,0,0,0,0,0,0,144815.25
+Prime,2025-07-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,3434,0,0,0,0,0,0,200646.9
+Prime,2025-07-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PC-9586,4 X 4 Double cab,2282.98,0,0,0,0,0,0,198827.04
+Prime,2025-07-01,Thanamalwila,Civil,,Ravindra Wijesinghe,PJ-8253,Van Field Use,3001,0,0,0,0,0,0,165307.15
+Prime,2025-07-01,Welikada,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven Passenger Car,2017,0,0,0,0,0,0,94176
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,3586,0,0,0,0,0,0,210447.6
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,3683,0,0,0,0,0,0,213234.3
+Prime,2025-07-01,Welikada,Pool ,,Pool ,KN-5597,Passenger Car,4431,0,0,0,0,0,0,258143.85
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3319,0,0,0,0,0,0,193459.65
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,3739,0,0,0,0,0,0,210734.63
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAV-2913,Passenger Car,3593,0,0,0,0,0,0,212058.3
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3846,0,0,0,0,0,0,221388.6
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,3414,0,0,0,0,0,0,199596.9
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3457,0,0,0,0,0,0,202789.95
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,4837,0,0,0,0,0,0,281025.45
+Prime,2025-07-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3217,0,0,0,0,0,0,182096.93
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAN-2228,Passenger Car,4026,0,0,0,0,0,0,223351.8
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CBF-3501,Passenger Car,3476,0,0,0,0,0,0,200897.85
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,2885,0,0,0,0,0,0,163785.98
+Prime,2025-07-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,4165,0,0,0,0,0,0,239509.5
+Prime,2025-07-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3454,0,0,0,0,0,0,273616.85
+Prime,2025-07-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1312,0,0,0,0,0,0,90000
+Prime,2025-07-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1626,0,0,0,0,0,0,94221
+Prime,2025-07-01,Welikada,Transmission Operations,,Chamara Prasanga,CAK-4723,Self-Driven Passenger Car,1965,0,0,0,0,0,0,94176
+Prime,2025-07-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2216,0,0,0,0,0,0,164954.9
+Owned,2025-07-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,2079,40916,0,2,180000,180.05,44096.5,0
+Owned,2025-07-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,2522,33253.68,361776.56,1,90000,199,49144.92,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,KY-7354,Car,1242,50861.32,40300,1,90000,99.71,25772.76,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,KY-7361,Car,2579,30333.35,0,1,37500,159.17,41141.14,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,2007,2400,70050,1,37500,325.13,79629.05,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,2690,0,0,1,90000,373.49,91472.17,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,5489,0,0,1,75000,515.31,131574.64,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,3568,28485.54,113196.4,1,75000,500.14,122492.89,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,3701,0,38300,1,75000,455.96,111672.29,0
+Owned,2025-07-01,Head Office,Network Audit,,,NB-6152,Passenger Van,1528,0,0,1,90000,175.34,42943.2,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,4438,40092.18,168022.43,2,180000,498.67,122131.4,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,2231,29072.42,31825.76,1,90000,332.74,81492.86,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,4934,43338.31,0,1,90000,531.61,130199.89,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,2746,48557.13,150062.83,1,75000,392.77,96196.1,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,3113,34079.79,20128,1,90000,387.46,94894.62,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,2319,0,0,1,90000,362.81,88856.97,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,3711,29986.25,10242.85,1,90000,470.71,115283.57,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,0,12379.84,1,30000,0,,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,4536,0,0,1,90000,583.37,142876.94,0
+Owned,2025-07-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5152,6490,11890,2,180000,599.2,146753.22,0
+Owned,2025-07-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,4288,0,0,2,180000,492,120498.31,0
+Owned,2025-07-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,3869,7550,118975,1,90000,442.47,108367.65,0
+Owned,2025-07-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,2696,8590,0,2,180000,312.44,90295.45,0
+Owned,2025-07-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,3829,0,0,2,180000,435.65,120275.43,0
+Owned,2025-07-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,6145,0,0,2,180000,674,165425.42,0
+Owned,2025-07-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4196,2960,0,1,90000,449.02,109971.85,0
+Owned,2025-07-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2530,16310,0,2,180000,261,63922.88,0
+Owned,2025-07-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,6473,5600,0,2,180000,638.54,184538.93,0
+Owned,2025-07-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,3626,5600,0,2,180000,365,105485,0
+Owned,2025-07-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,7668,47466.45,135421.94,,,772.74,189254.59,0
+Owned,2025-07-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1990,0,0,2,180000,299.57,73369.26,0
+Owned,2025-07-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2629,36169,90648,,,333.56,81693.93,0
+Owned,2025-07-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,5418,0,2712,2,180000,504.42,123539.66,0
+Owned,2025-07-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,4067,32313.8,21876.8,2,180000,436.03,106790.4,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,5166,0,45538.75,1,90000,549.74,134640.69,0
+Owned,2025-07-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,5967,0,105081.1,2,180000,543.49,133108.99,0
+Owned,2025-07-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,3541,30712.8,0,2,180000,330.01,80824.48,0
+Owned,2025-07-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,6513,32748.69,79900,2,180000,511,145386.59,0
+Owned,2025-07-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,4630,35206.34,0,2,180000,476.21,116631.09,0
+Owned,2025-07-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3097,0,105500,2,180000,341.34,83599.37,0
+Owned,2025-07-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2749,30230.2,22984.38,,,292.18,72169.51,0
+Owned,2025-07-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,2532,0,0,2,180000,276.73,76218.01,0
+Owned,2025-07-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,1998,0,177958.23,2,180000,225.7,62163.13,0
+Owned,2025-07-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,6386,0,0,2,180000,658.21,182797.76,0
+Owned,2025-07-01,Head Office,Administration,,,BFD-2154,Motorcycle,1505,0,0,,0,30,7754.24,0
+Owned,2025-07-01,Head Office,Administration,,,BFD-2166,Motorcycle,959,0,5000,,0,11.5,2973.23,0
+Owned,2025-07-01,Head Office,Administration,,,BFD-2177,Motorcycle,480,0,0,,0,12.57,3248.77,0
+Owned,2025-07-01,Head Office,Administration,,,BFD-2190,Motorcycle,1986,0,0,,0,30,7754.24,0
+Owned,2025-07-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1347,36404.38,12745,,0,41.15,10636.23,0
+Owned,2025-07-01,Head Office,Administration,,,BFD-2258,Motorcycle,694,29315.97,0,,0,30,7754.24,0
+Owned,2025-07-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1734,0,144694.5,,0,30,7754.24,0
+Owned,2025-07-01,Head Office,Administration,,,BFD-2292,Motorcycle,881,37573.1,0,,0,28.68,7412.02,0
+Owned,2025-07-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,2004,35243.48,0,,0,50,12923.73,0
+Owned,2025-07-01,Head Office,Finance,,,BFD-2320,Motorcycle,1648,8694.92,4800,,0,29.03,7503,0
+Owned,2025-07-01,Head Office,Administration,,,BHI-8224,Motorcycle,1713,32278.21,2500,,0,30,7754.24,0
+Prime,2025-08-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,3543,0,0,0,0,0,0,331803.86
+Prime,2025-08-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4755,0,0,0,0,0,0,405942.5
+Prime,2025-08-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,3062,0,0,0,0,0,0,230463.14
+Prime,2025-08-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,5269,0,0,0,0,0,0,299640
+Prime,2025-08-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4353.55,0,0,0,0,0,0,376435.93
+Prime,2025-08-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,2422,0,0,0,0,0,0,145557
+Prime,2025-08-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,2813,0,0,0,0,0,0,152814.96
+Prime,2025-08-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2916,0,0,0,0,0,0,169183.5
+Prime,2025-08-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2149.35,0,0,0,0,0,0,196369.85
+Prime,2025-08-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2101,0,0,0,0,0,0,188123.67
+Prime,2025-08-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,3443,0,0,0,0,0,0,256222.14
+Prime,2025-08-01,Badulla,RND,,Amila Nagasinghe,GS-6345,Passenger Van,2196,0,0,0,0,0,0,140436.96
+Prime,2025-08-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1473,0,0,0,0,0,0,112289.73
+Shakya,2025-08-01,Chilaw,BTS Operation,,Chamara Prasanga,PJ-2492,Van Field Use,427,0,0,0,0,0,0,58987.15
+Shakya,2025-08-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1715,0,0,0,0,0,0,148086.75
+Prime,2025-08-01,Galle,BTS Operation,,Chamara Prasanga,PD-8263,4 X 4 Double cab,2725,0,0,0,0,0,0,250874.92
+Prime,2025-08-01,Galle,Projects,,Hasanga Silva,KP-4632,Passenger Car,2319,0,0,0,0,0,0,129995.73
+Prime,2025-08-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,3330,0,0,0,0,0,0,188842.5
+Prime,2025-08-01,Homagama,BTS Operation,,Chamara Prasanga,CBF-3501,Passenger Car,1336,0,0,0,0,0,0,100152.03
+Shakya,2025-08-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,4466,0,0,0,0,0,0,313729.33
+Shakya,2025-08-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,2783,0,0,0,0,0,0,195204.95
+Prime,2025-08-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1611,0,0,0,0,0,0,0
+CS Tours,2025-08-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1718,0,0,0,0,0,0,148241.1
+Prime,2025-08-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,1510,0,0,0,0,0,0,126841.5
+Prime,2025-08-01,Kandy,BTS Operation,,Chamara Prasanga,PB-3222,4 X 4 Double cab,2074,0,0,0,0,0,0,196369.85
+Prime,2025-08-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,2181,0,0,0,0,0,0,130717.38
+Prime,2025-08-01,Kandy,RND,,Amila Nagasinghe,HH-8942,Van Field Use,1571,0,0,0,0,0,0,56885.21
+Prime,2025-08-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2019,0,0,0,0,0,0,134653.3
+Prime,2025-08-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2428,0,0,0,0,0,0,185654.72
+Prime,2025-08-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2056,0,0,0,0,0,0,135893.11
+Prime,2025-08-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2126.81,0,0,0,0,0,0,237816.19
+Prime,2025-08-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1164.03,0,0,0,0,0,0,137025
+CS Tours,2025-08-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2734,0,0,0,0,0,0,143179.61
+Prime,2025-08-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,2581,0,0,0,0,0,0,147978
+Prime,2025-08-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CBC-1077,Van Field use,2332,0,0,0,0,0,0,90017.92
+CS Tours,2025-08-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2647,0,0,0,0,0,0,141901.81
+Prime,2025-08-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2279,0,0,0,0,0,0,232954.17
+Prime,2025-08-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,4692,0,0,0,0,0,0,353634.89
+Prime,2025-08-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2346,0,0,0,0,0,0,145324.5
+Prime,2025-08-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2422,0,0,0,0,0,0,130600.23
+Prime,2025-08-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,2505.16,0,0,0,0,0,0,236106.7
+Prime,2025-08-01,Matara,BTS Operation,,Chamara Prasanga,JH-4926,Passenger Van,3800,0,0,0,0,0,0,228777.6
+Prime,2025-08-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PE-2282,4 X 4 Double cab,98.21,0,0,0,0,0,0,30483.87
+Prime,2025-08-01,Panadura,Sites Acquisition,,Azeem Azeez,CAX-3097,Passenger Car,1976,0,0,0,0,0,0,104639.18
+Prime,2025-08-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2193,0,0,0,0,0,0,144999
+Prime,2025-08-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,1721,0,0,0,0,0,0,138375
+Prime,2025-08-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,778,0,0,0,0,0,0,74206.6
+Prime,2025-08-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703',4 X 4 Double cab,1910,0,0,0,0,0,0,126422.85
+Prime,2025-08-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2506,0,0,0,0,0,0,240435.22
+Prime,2025-08-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,2542,0,0,0,0,0,0,175596.41
+Prime,2025-08-01,Rathnapura,RND,,Amila Nagasinghe,KQ-5184,Passenger Car,1789,0,0,0,0,0,0,141976.5
+Prime,2025-08-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,4148,0,0,0,0,0,0,234967.5
+Prime,2025-08-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PB-6017,4 X 4 Double cab,1909,0,0,0,0,0,0,159293.9
+CS Tours,2025-08-01,Thanamalwila,Civil,,Ravindra Wijesinghe,PJ-8253,Van Field Use,3096,0,0,0,0,0,0,164452.36
+Prime,2025-08-01,Welikada,BTS Operation,,Chamara Prasanga,CBC-9768,Self-Driven Passenger Car,1850,0,0,0,0,0,0,84000
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,3480,0,0,0,0,0,0,195909.11
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,3391,0,0,0,0,0,0,196693.5
+Prime,2025-08-01,Welikada,Pool ,,Pool ,KN-5597,Passenger Car,3915,0,0,0,0,0,0,226626.5
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3352,0,0,0,0,0,0,194243.5
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,4049,0,0,0,0,0,0,233248.5
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,3174,0,0,0,0,0,0,177367.11
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,2979,0,0,0,0,0,0,162567.23
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,4495,0,0,0,0,0,0,257230.5
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,3792,0,0,0,0,0,0,218850
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3777,0,0,0,0,0,0,210924.11
+Prime,2025-08-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,3898,0,0,0,0,0,0,225848
+Prime,2025-08-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3226,0,0,0,0,0,0,185365.5
+Shakya,2025-08-01,Welikada,Pool ,,Pool ,PA-1625,Van Field Use,2965,0,0,0,0,0,0,131076.13
+Shakya,2025-08-01,Welikada,Pool ,,Pool ,Shakya1,Passenger Car,2495,0,0,0,0,0,0,102395.73
+Shakya,2025-08-01,Welikada,Pool ,,Pool ,Shakya2,Passenger Car,2424,0,0,0,0,0,0,99063.71
+Prime,2025-08-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,5803,0,0,0,0,0,0,520191.9
+Prime,2025-08-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1288,0,0,0,0,0,0,81500
+Shakya,2025-08-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1643,0,0,0,0,0,0,85861.5
+Shakya,2025-08-01,Welikada,Transmission Operations,,Chamara Prasanga,CAD-4201,Self-Driven Passenger Car,2136,0,0,0,0,0,0,84000
+Shakya,2025-08-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2001,0,0,0,0,0,0,131432.72
+Owned,2025-08-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,2291,76213.85,0,2,180000,204.68,50128.03,0
+Owned,2025-08-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,3630,31017.21,0,1,90000,325.67,80128.39,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,KY-7354,Car,1076,0,1086730.72,1,90000,81.1,20962.03,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,KY-7361,Car,3008,15396.92,176000,1,37500,159.64,41261.85,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,2010,36827,14789.77,1,37500,340.01,83274.61,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3850,0,274890,1,90000,488,119517.91,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,4764,26646.84,212781.15,1,75000,474.18,125831.58,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,3313,0,0,1,75000,451.76,110641.94,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,3246,26451.86,514652.45,1,75000,425.85,104296.18,0
+Owned,2025-08-01,Head Office,Network Audit,,,NB-6152,Passenger Van,716,31092.24,91368.57,1,90000,90.73,22221.9,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3990,28625.95,0,2,180000,422.89,103571.97,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,5436,0,0,1,90000,528.35,129401.46,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,5919,0,1550,1,90000,556.78,143021.2,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,3984,0,0,1,75000,478.98,117310,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,2385,0,0,1,90000,284.35,70787.61,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,2932,0,0,1,90000,338.67,84538.85,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,4143,26498.77,9718.65,1,90000,483.34,118377.59,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,25676.44,34050,1,30000,0,,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,4219,6290,19993.7,1,90000,534.27,130849.89,0
+Owned,2025-08-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5500,650,0,2,180000,629.84,154257.42,0
+Owned,2025-08-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,4158,0,0,2,180000,426.03,104341.25,0
+Owned,2025-08-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,4127,2700,0,1,90000,528,129315.25,0
+Owned,2025-08-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,374,0,2500,2,180000,54.7,13396.86,0
+Owned,2025-08-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,4682,0,4576.27,2,180000,485,140165,0
+Owned,2025-08-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,4981,15300,6073.09,2,180000,550,134703.39,0
+Owned,2025-08-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4152,13190,0,1,90000,449.42,110069.81,0
+Owned,2025-08-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2475,0,0,2,180000,329,80577.12,0
+Owned,2025-08-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,4953,0,21890,2,180000,499.03,144218.22,0
+Owned,2025-08-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,4651,0,4950,2,180000,467.8,135194.2,0
+Owned,2025-08-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,7693,0,45891.5,,,769.89,188556.83,0
+Owned,2025-08-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1752,0,0,2,180000,306.49,75064.08,0
+Owned,2025-08-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,627,35847.47,128481,,,66.87,16377.48,0
+Owned,2025-08-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,4696,0,0,2,180000,430.19,105359.11,0
+Owned,2025-08-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,4919,0,0,2,180000,415,101639.83,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,3250,28215.31,0,1,90000,347.43,85091.15,0
+Owned,2025-08-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,5377,28249.11,70368.2,2,180000,499.12,122242.1,0
+Owned,2025-08-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,3746,0,3700,2,180000,345,84495.76,0
+Owned,2025-08-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,3895,0,39850,2,180000,383,108262.34,0
+Owned,2025-08-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,4969,0,0,2,180000,457.02,111931.17,0
+Owned,2025-08-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3021,31285.1,18983.6,2,180000,367,89883.9,0
+Owned,2025-08-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2972,0,2800,,,336.21,82343.94,0
+Owned,2025-08-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,6943,29113.59,16500,2,180000,698.68,191714.27,0
+Owned,2025-08-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,1969,29506,178616.01,2,180000,227.6,62685.06,0
+Owned,2025-08-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,6620,43409.3,0,2,180000,686.38,188661.51,0
+Owned,2025-08-01,Head Office,Administration,,,BFD-2154,Motorcycle,1448,49293.04,400,,0,29.51,7627.58,0
+Owned,2025-08-01,Head Office,Administration,,,BFD-2166,Motorcycle,938,47425.09,0,,0,27.6,7133.38,0
+Owned,2025-08-01,Head Office,Administration,,,BFD-2177,Motorcycle,19,0,472130.28,,0,0,,0
+Owned,2025-08-01,Head Office,Administration,,,BFD-2190,Motorcycle,1630,0,0,,0,30,7754.24,0
+Owned,2025-08-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1340,35024.62,31018.65,,0,25.54,6600.92,0
+Owned,2025-08-01,Head Office,Administration,,,BFD-2258,Motorcycle,752,0,15391.53,,0,25,6461.86,0
+Owned,2025-08-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1784,27580.8,0,,0,30,7754.24,0
+Owned,2025-08-01,Head Office,Administration,,,BFD-2292,Motorcycle,974,0,0,,0,29.64,7661.19,0
+Owned,2025-08-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1645,43808.73,0,,0,50,12923.73,0
+Owned,2025-08-01,Head Office,Finance,,,BFD-2320,Motorcycle,17,0,0,,0,5,1292.37,0
+Owned,2025-08-01,Head Office,Administration,,,BHI-8224,Motorcycle,1423,34483.67,0,,0,30,7754.24,0
+Prime,2025-09-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,4246,0,0,0,0,0,0,386464.56
+Prime,2025-09-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4244,0,0,0,0,0,0,365566.3
+Prime,2025-09-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2861,0,0,0,0,0,0,212078.9
+Prime,2025-09-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,6970,0,0,0,0,0,0,387079
+Prime,2025-09-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4492,0,0,0,0,0,0,383630.62
+Prime,2025-09-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,2994,0,0,0,0,0,0,171329.6
+Prime,2025-09-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,1604,0,0,0,0,0,0,114260.99
+Prime,2025-09-01,A'pura,Civil,,Ravindra Wijesinghe,JG-8504,Passenger Car,1522,0,0,0,0,0,0,84806.8
+Prime,2025-09-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2874,0,0,0,0,0,0,164847.1
+Prime,2025-09-01,A'pura,BTS Operation,,Chamara Prasanga,PF-3301,4 X 4 Double cab,2495.32,0,0,0,0,0,0,231009.68
+Prime,2025-09-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,3647,0,0,0,0,0,0,274134.37
+Prime,2025-09-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,2774,0,0,0,0,0,0,205292.92
+Prime,2025-09-01,Badulla,RND,,Amila Nagasinghe,PD-2505,Passenger Van,2773,0,0,0,0,0,0,207868.59
+Prime,2025-09-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,2155,0,0,0,0,0,0,132199.45
+Prime,2025-09-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,2546,0,0,0,0,0,0,189448.53
+Prime,2025-09-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1732,0,0,0,0,0,0,146475
+Prime,2025-09-01,Galle,BTS Operation,,Chamara Prasanga,PD-8263,4 X 4 Double cab,2453,0,0,0,0,0,0,229944.66
+Prime,2025-09-01,Galle,Projects,,Hasanga Silva,CBA-9724,Passenger Car,2493,0,0,0,0,0,0,146800.5
+Prime,2025-09-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,2181,0,0,0,0,0,0,141685.5
+Prime,2025-09-01,Homagama,BTS Operation,,Chamara Prasanga,CBF-3501,Passenger Car,1688,0,0,0,0,0,0,133627.2
+Shakya,2025-09-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,1833,0,0,0,0,0,0,78621.68
+Shakya,2025-09-01,Jaffna,BTS Operation,,Chamara Prasanga,56-7935,Passenger Van,1886,0,0,0,0,0,0,77264.46
+Shakya,2025-09-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,2431,0,0,0,0,0,0,174196.99
+Prime,2025-09-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1564,0,0,0,0,0,0,0
+CS Tours,2025-09-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1614,0,0,0,0,0,0,142890.3
+Prime,2025-09-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,3157,0,0,0,0,0,0,180303.3
+Prime,2025-09-01,Kandy,BTS Operation,,Chamara Prasanga,PD-3222,4 X 4 Double cab,1878,0,0,0,0,0,0,138587.66
+Prime,2025-09-01,Kandy,Sites Acquisition,,Azeem Azeez,PJ-1477,Van Field Use,387,0,0,0,0,0,0,10501
+Prime,2025-09-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,2638,0,0,0,0,0,0,136038.74
+Prime,2025-09-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2277,0,0,0,0,0,0,133079.24
+Prime,2025-09-01,Kandy,Power,,Ruwan Rathnasinghe,252-2977,Passenger Van,1800,0,0,0,0,0,0,112524.54
+Prime,2025-09-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,362,0,0,0,0,0,0,30609.36
+Prime,2025-09-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2262,0,0,0,0,0,0,140848.5
+Prime,2025-09-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2090.58,0,0,0,0,0,0,205414
+Prime,2025-09-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1257.41,0,0,0,0,0,0,137025
+CS Tours,2025-09-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2704,0,0,0,0,0,0,139761.35
+Prime,2025-09-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAC-4723,Passenger Car,3111,0,0,0,0,0,0,175382.4
+Prime,2025-09-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAQ-0450,Passenger Car,3085,0,0,0,0,0,0,179435
+CS Tours,2025-09-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2838,0,0,0,0,0,0,154354.93
+Prime,2025-09-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2539,0,0,0,0,0,0,234810.71
+Prime,2025-09-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,3480,0,0,0,0,0,0,260039.82
+Prime,2025-09-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2412,0,0,0,0,0,0,143545.5
+Prime,2025-09-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2824,0,0,0,0,0,0,159359.1
+Prime,2025-09-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,1669.57,0,0,0,0,0,0,215164.17
+Prime,2025-09-01,Matara,BTS Operation,,Chamara Prasanga,JH-4926,Passenger Van,3702,0,0,0,0,0,0,219421.48
+Prime,2025-09-01,Panadura,Sites Acquisition,,Azeem Azeez,CAN-0725,Passenger Car,1349,0,0,0,0,0,0,67840.5
+Prime,2025-09-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2529,0,0,0,0,0,0,146070.6
+Prime,2025-09-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,1938,0,0,0,0,0,0,143824.5
+Prime,2025-09-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,4 X 4 Double cab,2895,0,0,0,0,0,0,271276.38
+Prime,2025-09-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2641,0,0,0,0,0,0,248937.12
+Prime,2025-09-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,2761,0,0,0,0,0,0,209508.35
+Prime,2025-09-01,Rathnapura,RND,,Amila Nagasinghe,KN-5805,Passenger Car,1990,0,0,0,0,0,0,143917.5
+Prime,2025-09-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,4787,0,0,0,0,0,0,268228.8
+Prime,2025-09-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PB-6017,4 X 4 Double cab,2221,0,0,0,0,0,0,232074.69
+CS Tours,2025-09-01,Thanamalwila,Civil,,Ravindra Wijesinghe,PJ-8253,Van Field Use,3503,0,0,0,0,0,0,189069.87
+Prime,2025-09-01,Welikada,BTS Operation,,Chamara Prasanga,CAT-4615,Self-Driven Passenger Car,1989,0,0,0,0,0,0,84000
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,2905,0,0,0,0,0,0,146692
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,3141,0,0,0,0,0,0,180099.9
+Prime,2025-09-01,Welikada,Pool ,,Pool ,KN-5597,Passenger Car,4231,0,0,0,0,0,0,243086.4
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3064,0,0,0,0,0,0,168919.6
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,3974,0,0,0,0,0,0,227874.6
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,4364,0,0,0,0,0,0,241371.6
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,2792,0,0,0,0,0,0,162002.8
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3226,0,0,0,0,0,0,184527.4
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,4237,0,0,0,0,0,0,240346.8
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3498,0,0,0,0,0,0,193053.2
+Prime,2025-09-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,3351,0,0,0,0,0,0,195750.4
+Prime,2025-09-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,2691,0,0,0,0,0,0,153465.9
+Shakya,2025-09-01,Welikada,Pool ,,Pool ,PA-1625,Van Field Use,4206,0,0,0,0,0,0,219030.75
+Shakya,2025-09-01,Welikada,Pool ,,Pool ,Shakya1,Van Field Use,186,0,0,0,0,0,0,0
+Shakya,2025-09-01,Welikada,Pool ,,Pool ,Shakya2,Van Field Use,2420,0,0,0,0,0,0,117543.26
+Prime,2025-09-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3911,0,0,0,0,0,0,315694.77
+Prime,2025-09-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1183,0,0,0,0,0,0,81500
+Shakya,2025-09-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1777,0,0,0,0,0,0,84000
+Shakya,2025-09-01,Welikada,Transmission Operations,,Chamara Prasanga,CAD-4201,Self-Driven Passenger Car,1555,0,0,0,0,0,0,83177.5
+Shakya,2025-09-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2196,0,0,0,0,0,0,124100.41
+Owned,2025-09-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,2830,29718.24,0,2,180000,269.28,64581.32,0
+Owned,2025-09-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,4311,31303.61,0,1,90000,402,96412.58,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,KY-7354,Car,1462,35062.43,0,1,90000,88.94,22535.98,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,KY-7361,Car,2339,7390,0,1,37500,130.02,32945.24,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,1483,36015,46750,1,37500,308.25,73928.47,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3449,30745.33,22350,1,90000,402.75,96591.02,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,3307,0,9900,1,75000,376.61,92480.32,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,2950,76823.7,248956.89,1,75000,435,104326.51,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,2361,33833.84,23610,1,75000,259.7,62283.5,0
+Owned,2025-09-01,Head Office,Network Audit,,,NB-6152,Passenger Van,1118,32219.01,271223.56,1,90000,134.45,32245.93,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3149,26433.8,200,2,180000,385.62,92482.48,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,4014,0,3468.23,1,90000,469.25,115172.61,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,2968,30355.6,0,1,90000,381.03,91382.38,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,4180,27291.51,47800,1,75000,487.52,117748.12,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,2839,0,0,1,90000,343.13,82711.17,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,2068,0,14050,1,90000,265.35,63639.99,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,4247,27362.69,28500,1,90000,453.98,108878.49,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,0,0,1,30000,0,,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,4040,0,0,1,90000,441.58,108169.36,0
+Owned,2025-09-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5267,6490,0,2,180000,624.01,149656.64,0
+Owned,2025-09-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,3977,9400,6900,2,180000,429.01,102889.69,0
+Owned,2025-09-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,4185,0,0,1,90000,485.14,116351.37,0
+Owned,2025-09-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,2879,22040,42180,2,180000,325.02,77949.71,0
+Owned,2025-09-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,4621,0,0,2,180000,449,127067,0
+Owned,2025-09-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,6161,0,0,2,180000,698.8,167593.56,0
+Owned,2025-09-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4204,0,250,1,90000,449.86,107890.15,0
+Owned,2025-09-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,0,0,4576.27,2,180000,0,,0
+Owned,2025-09-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,5504,0,0,2,180000,552.15,156259.02,0
+Owned,2025-09-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,3201,6400,52120,2,180000,331.3,93757.9,0
+Owned,2025-09-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,6686,35385.72,0,,,731,175316.1,0
+Owned,2025-09-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,1857,0,0,2,180000,244.93,58741.21,0
+Owned,2025-09-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,0,0,0,,,0,,0
+Owned,2025-09-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,4910,35269.77,71803,2,180000,432.67,103767.47,0
+Owned,2025-09-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,5048,0,166101.1,2,180000,470,112720.34,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,2587,0,0,1,90000,308.82,74064.94,0
+Owned,2025-09-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,6097,27907.71,0,2,180000,570,136703.39,0
+Owned,2025-09-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,3754,51398.06,0,2,180000,371.85,89181.69,0
+Owned,2025-09-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,6563,29515.42,30724,2,180000,564,159612,0
+Owned,2025-09-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,3925,0,0,2,180000,372,89216.95,0
+Owned,2025-09-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,2576,0,0,2,180000,310.55,74479.37,0
+Owned,2025-09-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2795,31806.08,0,,,264.91,63533.5,0
+Owned,2025-09-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,5434,28454.88,0,2,180000,565,149309.32,0
+Owned,2025-09-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,1762,0,22230,2,180000,167.42,44409.13,0
+Owned,2025-09-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,5771,0,0,2,180000,555.11,149800.23,0
+Owned,2025-09-01,Head Office,Administration,,,BFD-2154,Motorcycle,1146,0,2644,,0,29.01,7349.57,0
+Owned,2025-09-01,Head Office,Administration,,,BFD-2166,Motorcycle,1147,0,0,,0,25.61,6489.31,0
+Owned,2025-09-01,Head Office,Administration,,,BFD-2177,Motorcycle,586,30691.46,8437.5,,0,13.02,3298.63,0
+Owned,2025-09-01,Head Office,Administration,,,BFD-2190,Motorcycle,1749,30713.48,0,,0,30,7601.69,0
+Owned,2025-09-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1306,34589.99,72050,,0,38.02,9632.87,0
+Owned,2025-09-01,Head Office,Administration,,,BFD-2258,Motorcycle,780,0,0,,0,20,5067.8,0
+Owned,2025-09-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1968,29581.96,9718.65,,0,30,7601.69,0
+Owned,2025-09-01,Head Office,Administration,,,BFD-2292,Motorcycle,978,28002.33,122810.18,,0,29.38,7444.59,0
+Owned,2025-09-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1598,0,214350,,0,50,12669.49,0
+Owned,2025-09-01,Head Office,Finance,,,BFD-2320,Motorcycle,1502,0,56300,,0,42.93,10878.79,0
+Owned,2025-09-01,Head Office,Administration,,,BHI-8224,Motorcycle,1708,0,307649.57,,0,30,7601.69,0
+Prime,2025-10-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,4307,0,0,0,0,0,0,391296.74
+Prime,2025-10-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4460,0,0,0,0,0,0,378319.87
+Prime,2025-10-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2914,0,0,0,0,0,0,215386.96
+Prime,2025-10-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,5592,0,0,0,0,0,0,314842.8
+Prime,2025-10-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,5721,0,0,0,0,0,0,469326.24
+Prime,2025-10-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,2930,0,0,0,0,0,0,167158.5
+Prime,2025-10-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,2011,0,0,0,0,0,0,129774.84
+Prime,2025-10-01,A'pura,Civil,,Ravindra Wijesinghe,JG-8504,Passenger Car,2551,0,0,0,0,0,0,146402.4
+Prime,2025-10-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2951,0,0,0,0,0,0,166652.4
+Prime,2025-10-01,A'pura,BTS Operation,,Chamara Prasanga,PC-7852,4 X 4 Double cab,3745,0,0,0,0,0,0,336841.29
+Prime,2025-10-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2185,0,0,0,0,0,0,184925.01
+Prime,2025-10-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,3879,0,0,0,0,0,0,285659.47
+Prime,2025-10-01,Badulla,RND,,Amila Nagasinghe,PD-2507,Passenger Van,2146,0,0,0,0,0,0,182007.16
+Prime,2025-10-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,2247,0,0,0,0,0,0,126666.86
+Prime,2025-10-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,2382,0,0,0,0,0,0,185149.46
+Prime,2025-10-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1917,0,0,0,0,0,0,146475
+Prime,2025-10-01,Galle,BTS Operation,,Chamara Prasanga,PD-8263,4 X 4 Double cab,2602,0,0,0,0,0,0,236640.55
+Prime,2025-10-01,Galle,Projects,,Hasanga Silva,CBA-9724,Passenger Car,2313,0,0,0,0,0,0,146056.5
+Prime,2025-10-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,2731,0,0,0,0,0,0,153695.4
+Prime,2025-10-01,Homagama,BTS Operation,,Chamara Prasanga,CBF-3501,Passenger Car,1570,0,0,0,0,0,0,126303
+Shakya,2025-10-01,Jaffna,BTS Operation,,Chamara Prasanga,56-7935,Passenger Van,1934,0,0,0,0,0,0,205884.57
+Shakya,2025-10-01,Jaffna,Sites Acquisition,,Azeem Azeez,HJ-1100,Passenger Van,1862,0,0,0,0,0,0,0
+Shakya,2025-10-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,3967,0,0,0,0,0,0,271221.55
+Prime,2025-10-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1908,0,0,0,0,0,0,0
+CS Tours,2025-10-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1348,0,0,0,0,0,0,110504.03
+Prime,2025-10-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,2787,0,0,0,0,0,0,162312.3
+Prime,2025-10-01,Kandy,BTS Operation,,Chamara Prasanga,PC-4249,4 X 4 Double cab,3154.18,0,0,0,0,0,0,282807.33
+Prime,2025-10-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,2481,0,0,0,0,0,0,129097.01
+Prime,2025-10-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2626,0,0,0,0,0,0,138897.92
+Prime,2025-10-01,Kandy,Power,,Ruwan Rathnasinghe,252-2977,Passenger Van,2049,0,0,0,0,0,0,137283.18
+Prime,2025-10-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,2042,0,0,0,0,0,0,141918
+Prime,2025-10-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2113.93,0,0,0,0,0,0,214067.36
+CS Tours,2025-10-01,kadawatha,BTS Operation,,Chamara Prasanga,KS-1374,Self-Driven Passenger Car,329,0,0,0,0,0,0,15774.19
+Prime,2025-10-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1392.22,0,0,0,0,0,0,137025
+CS Tours,2025-10-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2916,0,0,0,0,0,0,152162.23
+Prime,2025-10-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,2753,0,0,0,0,0,0,156683.7
+Prime,2025-10-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAQ-0450,Van Field Use,3406,0,0,0,0,0,0,187637.31
+CS Tours,2025-10-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2511,0,0,0,0,0,0,134888.17
+Prime,2025-10-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2506,0,0,0,0,0,0,229407.28
+Prime,2025-10-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,3465,0,0,0,0,0,0,256185.1
+Prime,2025-10-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2515,0,0,0,0,0,0,144532.5
+Prime,2025-10-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2675,0,0,0,0,0,0,150705
+Prime,2025-10-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,2002.84,0,0,0,0,0,0,230732.16
+Prime,2025-10-01,Matara,BTS Operation,,Chamara Prasanga,JH-4926,Passenger Van,4012,0,0,0,0,0,0,235757
+Prime,2025-10-01,Panadura,Sites Acquisition,,Azeem Azeez,CBF-7130,Passenger Car,1569,0,0,0,0,0,0,41739.12
+Prime,2025-10-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2543,0,0,0,0,0,0,146120.7
+Prime,2025-10-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,2381,0,0,0,0,0,0,142755
+Prime,2025-10-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,4 X 4 Double cab,3784,0,0,0,0,0,0,341912.73
+Prime,2025-10-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2904,0,0,0,0,0,0,268955.27
+Prime,2025-10-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PC-0387,Passenger Van,3012,0,0,0,0,0,0,215994.49
+Prime,2025-10-01,Rathnapura,RND,,Amila Nagasinghe,CAO-2256,Passenger Car,2272,0,0,0,0,0,0,140476.5
+Prime,2025-10-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,5014,0,0,0,0,0,0,280908.6
+Prime,2025-10-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PB-6017,4 X 4 Double cab,2552,0,0,0,0,0,0,234715.78
+CS Tours,2025-10-01,Thanamalwila,Civil,,Ravindra Wijesinghe,PJ-8253,Van Field Use,2709,0,0,0,0,0,0,141379.2
+Prime,2025-10-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PB-3719,Van Field Use,1147,0,0,0,0,0,0,64913.21
+Prime,2025-10-01,Welikada,BTS Operation,,Chamara Prasanga,CAT-4615,Self-Driven Passenger Car,2136,0,0,0,0,0,0,84000
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,3359,0,0,0,0,0,0,193196.1
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,3335,0,0,0,0,0,0,185447.5
+Prime,2025-10-01,Welikada,Pool ,,Pool ,KN-5597,Passenger Car,3530,0,0,0,0,0,0,196385.5
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3399,0,0,0,0,0,0,189210.6
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,3533,0,0,0,0,0,0,203105.7
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,3911,0,0,0,0,0,0,222500.4
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,3677,0,0,0,0,0,0,209280.3
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,4149,0,0,0,0,0,0,227886.1
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,4291,0,0,0,0,0,0,243755.4
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3630,0,0,0,0,0,0,211255.5
+Prime,2025-10-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,4324,0,0,0,0,0,0,248706.6
+Prime,2025-10-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,3702,0,0,0,0,0,0,204574.3
+Shakya,2025-10-01,Welikada,Pool ,,Pool ,PA-1625,Van Field Use,3864,0,0,0,0,0,0,198052.79
+Shakya,2025-10-01,Welikada,Pool ,,Pool ,CAO-0269,Van Field Use,3044,0,0,0,0,0,0,154254.87
+Prime,2025-10-01,Welikada,BTS Operation,,Chamara Prasanga,PC-4084,Self-Driven 4 X 4 Double cab,1995,0,0,0,0,0,0,146475
+Prime,2025-10-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3023,0,0,0,0,0,0,222790.57
+Prime,2025-10-01,Welikada,Transport Maintaince,,Saman Abeysekara,CBK-9688,Self-Driven Passenger Car,1330,0,0,0,0,0,0,81500
+Shakya,2025-10-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1712,0,0,0,0,0,0,87966
+Shakya,2025-10-01,Welikada,Transmission Operations,,Chamara Prasanga,CAD-4201,Self-Driven Passenger Car,2042,0,0,0,0,0,0,84000
+Shakya,2025-10-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2804,0,0,0,0,0,0,149261.21
+Owned,2025-10-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,5952,45504.19,412629.05,2,180000,538.99,126525.85,0
+Owned,2025-10-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,3696,31274,0,1,90000,378.24,89806.72,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,KY-7354,Car,1070,0,29670,1,90000,68.76,17423.34,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,KY-7361,Car,2187,30755.84,13513.05,1,37500,112.08,28399.43,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,2326,4000,145077.96,1,37500,366.05,85929.39,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,4462,26188.12,72861.07,1,90000,492.45,117205.04,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,5749,17848.92,1600,1,75000,614.88,149981.59,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,3315,0,0,1,75000,384.91,90354.82,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,3237,34067.96,0,1,75000,325.27,78003.43,0
+Owned,2025-10-01,Head Office,Network Audit,,,NB-6152,Passenger Van,1763,0,142427.96,1,90000,171.19,40185.19,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,4925,0,23356.82,2,180000,518.22,121650.18,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,3934,33913.54,1400,1,90000,456.7,107207.22,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,3693,63639.08,148627.96,1,90000,375.03,90064.2,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,2505,26004.08,169122.53,1,75000,357.24,83861.28,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,1203,0,248539.08,1,90000,180.86,42456.12,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,2443,26794.64,181734.5,1,90000,317.75,75396.5,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,4525,0,278536.56,1,90000,521.77,122483.06,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,24402.62,0,1,30000,0,,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,2942,7100,0,1,90000,393.54,92381.38,0
+Owned,2025-10-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,4737,650,0,2,180000,626,146950.85,0
+Owned,2025-10-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,4481,0,9423.73,2,180000,408,95776.27,0
+Owned,2025-10-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,5009,0,0,1,90000,630,147889.83,0
+Owned,2025-10-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,2417,0,0,2,180000,328.69,77158.58,0
+Owned,2025-10-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,5464,0,17670,2,180000,596,165092,0
+Owned,2025-10-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,6348,0,0,2,180000,745.63,175033.48,0
+Owned,2025-10-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4148,17830,0,1,90000,449.14,105433.71,0
+Owned,2025-10-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2272,0,0,2,180000,233.43,54797.41,0
+Owned,2025-10-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,6834,5750,0,2,180000,670,184068.85,0
+Owned,2025-10-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,5593,0,16824.58,2,180000,500,138500,0
+Owned,2025-10-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,4023,0,24601.2,,,435.46,102223.09,0
+Owned,2025-10-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,4789,0,0,2,180000,560.04,131466.55,0
+Owned,2025-10-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,526,35951.27,0,,,67.15,15763.18,0
+Owned,2025-10-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,5238,0,0,2,180000,438.92,103033.44,0
+Owned,2025-10-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,4718,27983.38,77085,2,180000,474,111269.49,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,2611,27955.22,0,1,90000,339.52,79699.71,0
+Owned,2025-10-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,1339,0,0,2,180000,154.19,36195.45,0
+Owned,2025-10-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,4728,0,103047.5,2,180000,423,99297.46,0
+Owned,2025-10-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,6078,0,0,2,180000,530,146810,0
+Owned,2025-10-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,6333,0,38891.1,2,180000,550,129110.17,0
+Owned,2025-10-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3224,39464.38,8667.8,2,180000,359.63,84421.62,0
+Owned,2025-10-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,3302,0,265045,,,333.11,78196.16,0
+Owned,2025-10-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,5500,0,116159.32,2,180000,569.36,148557,0
+Owned,2025-10-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,5424,30633.71,6782.6,2,180000,599.71,156749.36,0
+Owned,2025-10-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,4905,0,168802.9,2,180000,480.28,129876.98,0
+Owned,2025-10-01,Head Office,Administration,,,BFD-2154,Motorcycle,1288,2428.53,0,,0,30,7600.43,0
+Owned,2025-10-01,Head Office,Administration,,,BFD-2166,Motorcycle,1095,0,0,,0,12.32,3121.26,0
+Owned,2025-10-01,Head Office,Administration,,,BFD-2177,Motorcycle,523,0,3340,,0,14,3547.46,0
+Owned,2025-10-01,Head Office,Administration,,,BFD-2190,Motorcycle,1772,70595.59,71432.97,,0,30,7601.69,0
+Owned,2025-10-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1328,93755.76,328845.99,,0,37.85,9591.57,0
+Owned,2025-10-01,Head Office,Administration,,,BFD-2258,Motorcycle,1330,11746.92,336062.72,,0,22,5574.58,0
+Owned,2025-10-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1835,0,37440,,0,30,7601.69,0
+Owned,2025-10-01,Head Office,Administration,,,BFD-2292,Motorcycle,1054,0,13340,,0,27.46,6957.32,0
+Owned,2025-10-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1898,72634.09,212600,,0,50,12669.49,0
+Owned,2025-10-01,Head Office,Finance,,,BFD-2320,Motorcycle,1725,17148.53,283812.39,,0,37.87,9596.38,0
+Owned,2025-10-01,Head Office,Administration,,,BHI-8224,Motorcycle,1517,42202.5,180300,,0,30,7601.69,0
+Prime,2025-11-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,4083,0,0,0,0,0,0,371903.21
+Prime,2025-11-01,Ampara,BTS Operation,,Chamara Prasanga,PF-2252,24 hrs Passenger Van,4450,0,0,0,0,0,0,338015.95
+Prime,2025-11-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,2987,0,0,0,0,0,0,219982.02
+Prime,2025-11-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,5299,0,0,0,0,0,0,296454.1
+Prime,2025-11-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4729,0,0,0,0,0,0,397733.6
+Prime,2025-11-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,2270,0,0,0,0,0,0,143810.5
+Prime,2025-11-01,A'pura,RND,,Amila Nagasinghe,KT-4604,Van Field Use,2107,0,0,0,0,0,0,126318.97
+Prime,2025-11-01,A'pura,Civil,,Ravindra Wijesinghe,JG-8504,Passenger Car,2462,0,0,0,0,0,0,142807
+Prime,2025-11-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2918,0,0,0,0,0,0,165025.7
+Prime,2025-11-01,A'pura,BTS Operation,,Chamara Prasanga,PC-7852,4 X 4 Double cab,2746,0,0,0,0,0,0,250453.98
+Prime,2025-11-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2858,0,0,0,0,0,0,212692.14
+Prime,2025-11-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,3239,0,0,0,0,0,0,240144.02
+Prime,2025-11-01,Badulla,RND,,Amila Nagasinghe,PD-2507,Passenger Van,1718,0,0,0,0,0,0,177684.8
+Prime,2025-11-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,1608,0,0,0,0,0,0,116752.66
+Prime,2025-11-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,2381,0,0,0,0,0,0,186271.71
+Prime,2025-11-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1798,0,0,0,0,0,0,146475
+Prime,2025-11-01,Galle,BTS Operation,,Chamara Prasanga,PD-8263,4 X 4 Double cab,2168,0,0,0,0,0,0,233927.2
+Prime,2025-11-01,Galle,Projects,,Hasanga Silva,CBA-9724,Passenger Car,2735,0,0,0,0,0,0,156308
+Prime,2025-11-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,2759,0,0,0,0,0,0,156415.1
+Prime,2025-11-01,Homagama,BTS Operation,,Chamara Prasanga,CBF-3501,Passenger Car,1623,0,0,0,0,0,0,128414.7
+Shakya,2025-11-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,4997,0,0,0,0,0,0,341495.88
+Shakya,2025-11-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,2626,0,0,0,0,0,0,182075.69
+Prime,2025-11-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1626,0,0,0,0,0,0,0
+CS Tours,2025-11-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1624,0,0,0,0,0,0,143404.8
+Prime,2025-11-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,3169,0,0,0,0,0,0,183358.6
+Prime,2025-11-01,Kandy,BTS Operation,,Chamara Prasanga,PC-4249,4 X 4 Double cab,2181.55,0,0,0,0,0,0,230917.38
+Prime,2025-11-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,2051,0,0,0,0,0,0,127106.16
+Prime,2025-11-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2223,0,0,0,0,0,0,128726.83
+Prime,2025-11-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,1284,0,0,0,0,0,0,104256.92
+Prime,2025-11-01,Kandy,Power,,Ruwan Rathnasinghe,252-2977,Passenger Van,355,0,0,0,0,0,0,37192.45
+Prime,2025-11-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,1968,0,0,0,0,0,0,140900.5
+Prime,2025-11-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,627.9,0,0,0,0,0,0,163659.11
+Prime,2025-11-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1144.54,0,0,0,0,0,0,137025
+CS Tours,2025-11-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,3006,0,0,0,0,0,0,155254.76
+Prime,2025-11-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,3141,0,0,0,0,0,0,175785.9
+Prime,2025-11-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAQ-0450,Van Field Use,3928,0,0,0,0,0,0,211413.93
+CS Tours,2025-11-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2449,0,0,0,0,0,0,130423.03
+Prime,2025-11-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,2807,0,0,0,0,0,0,256270.45
+Prime,2025-11-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,2978,0,0,0,0,0,0,219197.82
+Prime,2025-11-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2604,0,0,0,0,0,0,146867.1
+Prime,2025-11-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2420,0,0,0,0,0,0,141644.5
+Prime,2025-11-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,1632,0,0,0,0,0,0,244382
+Prime,2025-11-01,Matara,BTS Operation,,Chamara Prasanga,JA-4926,Passenger Van,2936,0,0,0,0,0,0,165546.3
+Prime,2025-11-01,Panadura,Sites Acquisition,,Azeem Azeez,CAJ-0725,Passenger Car,1396,0,0,0,0,0,0,33801.5
+Prime,2025-11-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2578,0,0,0,0,0,0,147444.7
+Prime,2025-11-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,2338,0,0,0,0,0,0,141970
+Prime,2025-11-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,2422,0,0,0,0,0,0,188695.77
+Prime,2025-11-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,2468,0,0,0,0,0,0,239622.72
+Prime,2025-11-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PB-1213,Passenger Van,2210,0,0,0,0,0,0,190177.14
+Prime,2025-11-01,Rathnapura,RND,,Amila Nagasinghe,CAO-2256,Passenger Car,3569,0,0,0,0,0,0,200194.1
+Prime,2025-11-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,3692,0,0,0,0,0,0,207630.8
+Prime,2025-11-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PB-6017,4 X 4 Double cab,2629,0,0,0,0,0,0,241537.14
+CS Tours,2025-11-01,Thanamalwila,Civil,,Ravindra Wijesinghe,PJ-8253,Van Field Use,2060,0,0,0,0,0,0,126133.75
+Prime,2025-11-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PB-3719,Van Field Use,1893,0,0,0,0,0,0,126735.72
+Prime,2025-11-01,Welikada,BTS Operation,,Chamara Prasanga,CAT-4615,Self-Driven Passenger Car,2283,0,0,0,0,0,0,84000
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,3067,0,0,0,0,0,0,175571.8
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,2537,0,0,0,0,0,0,144159.8
+Prime,2025-11-01,Welikada,Pool ,,Pool ,KN-5597,Passenger Car,2917,0,0,0,0,0,0,166753.3
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,3006,0,0,0,0,0,0,160164.73
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,3192,0,0,0,0,0,0,180822.3
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,2928,0,0,0,0,0,0,152105.53
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,3015,0,0,0,0,0,0,173485.5
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3580,0,0,0,0,0,0,195543.17
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,3407,0,0,0,0,0,0,189950.3
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3519,0,0,0,0,0,0,199329.6
+Prime,2025-11-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,3828,0,0,0,0,0,0,220259.7
+Prime,2025-11-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,2763,0,0,0,0,0,0,142834.13
+Shakya,2025-11-01,Welikada,Pool ,,Pool ,PA-1625,Van Field Use,4357,0,0,0,0,0,0,237841.56
+Shakya,2025-11-01,Welikada,Pool ,,Pool ,CAO-0269,Van Field Use,1841,0,0,0,0,0,0,72876.35
+Shakya,2025-11-01,Welikada,Pool ,,Pool ,KR-7618,Van Field Use,394,0,0,0,0,0,0,16273.13
+Shakya,2025-11-01,Welikada,Pool ,,Pool ,CAB-0480,Van Field Use,3257,0,0,0,0,0,0,152894
+Prime,2025-11-01,Welikada,BTS Operation,,Chamara Prasanga,PC-4084,Self-Driven 4 X 4 Double cab,1984,0,0,0,0,0,0,146475
+Prime,2025-11-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3748,0,0,0,0,0,0,328451.95
+Shakya,2025-11-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1614,0,0,0,0,0,0,84977
+Shakya,2025-11-01,Welikada,Transmission Operations,,Chamara Prasanga,CAD-4201,Self-Driven Passenger Car,1704,0,0,0,0,0,0,87722
+Shakya,2025-11-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,1903,0,0,0,0,0,0,128772.74
+Owned,2025-11-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,3473,0,0,2,180000,319.99,75117,0
+Owned,2025-11-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,3431,34463.85,0,1,90000,287.53,67496.45,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,KY-7354,Car,1756,32275.45,15125,1,90000,134.93,33617.16,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,KY-7361,Car,772,0,4650,1,37500,62.97,15689.38,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,1475,0,0,1,37500,202.97,47647.29,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,2972,1200,13600,1,90000,357.27,83866.91,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,4328,0,77500,1,75000,484.47,114790.62,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,1298,24160.72,0,1,75000,183.37,43045.57,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,1455,32423.72,50217.65,1,75000,229.85,53955.84,0
+Owned,2025-11-01,Head Office,Network Audit,,,NB-6152,Passenger Van,2260,0,0,1,90000,270.64,67469.92,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3993,0,1900,2,180000,451.29,105938.65,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,3278,0,0,1,90000,359.69,84436.64,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,2557,0,0,1,90000,306.55,71962.25,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,3869,0,0,1,75000,439.75,106178.7,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,1879,0,18600,1,90000,273.17,64126.44,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,1233,30212.06,72973.67,1,90000,162.09,38050.18,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,1414,0,0,1,90000,156.96,36845.93,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,0,26507.59,119681.02,1,30000,0,,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,3285,0,0,1,90000,445.17,104502.24,0
+Owned,2025-11-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5633,1200,0,2,180000,557,130753.39,0
+Owned,2025-11-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,1153,0,0,2,180000,197.73,48275,0
+Owned,2025-11-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,3926,6525,0,1,90000,530,124415.25,0
+Owned,2025-11-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,3334,9740,0,2,180000,361,84743.22,0
+Owned,2025-11-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,6227,0,0,2,180000,657.6,182155.48,0
+Owned,2025-11-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,3945,4160,0,2,180000,481.89,113121.64,0
+Owned,2025-11-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,3859,17990,0,1,90000,449.38,105490.05,0
+Owned,2025-11-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,1695,0,0,2,180000,177.8,41736.86,0
+Owned,2025-11-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,5968,0,0,2,180000,565,156505,0
+Owned,2025-11-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,3696,0,0,2,180000,360.3,99803.1,0
+Owned,2025-11-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,2069,0,41668.75,,,250.21,58736.68,0
+Owned,2025-11-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,5302,0,0,2,180000,558.83,131182.97,0
+Owned,2025-11-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2777,0,9100,,,312.24,73297.02,0
+Owned,2025-11-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,4571,0,0,2,180000,387.03,90853.42,0
+Owned,2025-11-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,5225,0,500,2,180000,588,138030.51,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,2995,0,0,1,90000,357.02,85720.18,0
+Owned,2025-11-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,4793,30401.82,0,2,180000,433.6,101785.76,0
+Owned,2025-11-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,4993,28028.17,9894.24,2,180000,510,119720.34,0
+Owned,2025-11-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,8777,49273.2,5000,2,180000,700,191944.36,0
+Owned,2025-11-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,5500,36071.52,164624.57,2,180000,474,111269.49,0
+Owned,2025-11-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,2158,0,0,2,180000,287.1,67395.51,0
+Owned,2025-11-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2485,27694.17,31967.8,,,268.75,63088.16,0
+Owned,2025-11-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,6564,36544.83,26202.79,2,180000,648.15,172033.17,0
+Owned,2025-11-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,7148,0,17500,2,180000,692.08,184150.41,0
+Owned,2025-11-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,5491,0,72600,2,180000,593.83,157774.73,0
+Owned,2025-11-01,Head Office,Administration,,,BFD-2154,Motorcycle,1379,0,0,,0,30,7474.58,0
+Owned,2025-11-01,Head Office,Administration,,,BFD-2166,Motorcycle,1091,0,0,,0,24.55,6116.94,0
+Owned,2025-11-01,Head Office,Administration,,,BFD-2177,Motorcycle,510,29502.7,8126.2,,0,0,,0
+Owned,2025-11-01,Head Office,Administration,,,BFD-2190,Motorcycle,1661,0,0,,0,30,7792.37,0
+Owned,2025-11-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1133,0,137350,,0,41.62,10369.73,0
+Owned,2025-11-01,Head Office,Administration,,,BFD-2258,Motorcycle,709,30110.02,146600,,0,20,4983.05,0
+Owned,2025-11-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1784,0,13250,,0,30,7474.58,0
+Owned,2025-11-01,Head Office,Administration,,,BFD-2292,Motorcycle,1037,0,0,,0,28.92,7205.49,0
+Owned,2025-11-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,949,35700.06,2600,,0,37,9218.64,0
+Owned,2025-11-01,Head Office,Finance,,,BFD-2320,Motorcycle,1597,0,0,,0,44.3,11038.45,0
+Owned,2025-11-01,Head Office,Administration,,,BHI-8224,Motorcycle,1505,0,136400,,0,30,7474.58,0
+Prime,2025-12-01,Ambalangoda,BTS Operation,,Chamara Prasanga,PB-5378,4 X 4 Double cab,4013,0,0,0,0,0,0,367078.49
+Prime,2025-12-01,Ampara,Power,,Ruwan Rathnasinghe,PC-4191,Passenger Van,4558,0,0,0,0,0,0,338343.88
+Prime,2025-12-01,Ampara,Sites Acquisition,,Azeem Azeez,CAU-6726,Passenger Car,3879,0,0,0,0,0,0,219150.6
+Prime,2025-12-01,A'pura,BTS Operation,,Chamara Prasanga,PD-0518,24 hrs Passenger Van,4837,0,0,0,0,0,0,405527.96
+Prime,2025-12-01,A'pura,Projects,,Hasanga Silva,CBJ-5825,Passenger Car,3200,0,0,0,0,0,0,180581
+Prime,2025-12-01,A'pura,Civil,,Ravindra Wijesinghe,JG-8504,Passenger Car,2806,0,0,0,0,0,0,159040.9
+Prime,2025-12-01,A'pura,Sites Acquisition,,Azeem Azeez,CBI-5082,Passenger Car,2488,0,0,0,0,0,0,141830.5
+Prime,2025-12-01,A'pura,BTS Operation,,Chamara Prasanga,PC-7852,4 X 4 Double cab,3081,0,0,0,0,0,0,279163.13
+Prime,2025-12-01,A'pura,Power,,Ruwan Rathnasinghe,PG-0415,Passenger Van,2514,0,0,0,0,0,0,186025.17
+Prime,2025-12-01,A'pura,BTS Operation,,Chamara Prasanga,PF-1928,Passenger Van,3180,0,0,0,0,0,0,234584.18
+Prime,2025-12-01,Badulla,RND,,Amila Nagasinghe,PD-2507,Passenger Van,2095,0,0,0,0,0,0,184476.11
+Prime,2025-12-01,Batticalo,RND,,Amila Nagasinghe,PI-1637,Van Field Use,2089,0,0,0,0,0,0,131505.13
+Prime,2025-12-01,Chilaw,BTS Operation,,Chamara Prasanga,PE-3785,Passenger Van,4667,0,0,0,0,0,0,351013.64
+Prime,2025-12-01,Colombo,BTS Operation,,Chamara Prasanga,PF-3955,Self-Driven 4 X 4 Double cab,1706,0,0,0,0,0,0,147623.7
+Prime,2025-12-01,Galle,BTS Operation,,Chamara Prasanga,PD-8263,4 X 4 Double cab,3343,0,0,0,0,0,0,307946.91
+Prime,2025-12-01,Galle,Projects,,Hasanga Silva,CBA-9724,Passenger Car,3271,0,0,0,0,0,0,190660.9
+Prime,2025-12-01,Galle,RND,,Amila Nagasinghe,CAO-5836,Passenger Car,2518,0,0,0,0,0,0,143666.2
+Prime,2025-12-01,Homagama,BTS Operation,,Chamara Prasanga,CBF-3501,Passenger Car,1611,0,0,0,0,0,0,122423.38
+Shakya,2025-12-01,Jaffna,BTS Operation,,Chamara Prasanga,HJ-1100,Passenger Van,3836,0,0,0,0,0,0,266473.64
+Shakya,2025-12-01,Jaffna,Sites Acquisition,,Azeem Azeez,PB-6807,Passenger Van,2414,0,0,0,0,0,0,174191.25
+Prime,2025-12-01,kadawatha,BTS Operation,,Chamara Prasanga,PA-2784,Passenger Van,1189,0,0,0,0,0,0,0
+CS Tours,2025-12-01,kadawatha,BTS Operation,,Chamara Prasanga,PF-9818,Self-Driven 4 X 4 Double cab,1519,0,0,0,0,0,0,138002.55
+Prime,2025-12-01,Kandy,BTS Operation,,Chamara Prasanga,CAH-0556,Passenger Car,5477,0,0,0,0,0,0,316937.3
+Prime,2025-12-01,Kandy,BTS Operation,,Chamara Prasanga,PC-4249,4 X 4 Double cab,2535.75,0,0,0,0,0,0,236098.7
+Prime,2025-12-01,Kandy,Sites Acquisition,,Azeem Azeez,CAC-5437,Van Field Use,1614,0,0,0,0,0,0,113050.77
+Prime,2025-12-01,Kandy,RND,,Amila Nagasinghe,PI-3731,Van Field Use,2110,0,0,0,0,0,0,128217.48
+Prime,2025-12-01,Kandy,Power,,Ruwan Rathnasinghe,PF-0288,Passenger Van,2287,0,0,0,0,0,0,186047.26
+Prime,2025-12-01,Katunayaka,Projects,,Hasanga Silva,CAN-3782,Passenger Car,1950,0,0,0,0,0,0,134161.82
+Prime,2025-12-01,Katunayaka,BTS Operation,,Chamara Prasanga,PD-1734,4 X 4 Double cab,2367.03,0,0,0,0,0,0,187657.85
+Prime,2025-12-01,Katunayaka,BTS Operation,,Chamara Prasanga,PC-8556,Self-Driven 4 X 4 Double cab,1291.22,0,0,0,0,0,0,137025
+CS Tours,2025-12-01,Kurunegala,Civil,,Ravindra Wijesinghe,PE-0852,Van Field Use,2536,0,0,0,0,0,0,130038.4
+Prime,2025-12-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAN-4723,Passenger Car,2817,0,0,0,0,0,0,157995.3
+Prime,2025-12-01,Kurunegala,Sites Acquisition,,Azeem Azeez,CAQ-0450,Van Field Use,3338,0,0,0,0,0,0,178309.11
+CS Tours,2025-12-01,Kurunegala,Projects,,Hasanga Silva,PC-0040,Van Field Use,2040,0,0,0,0,0,0,126828.33
+Prime,2025-12-01,Kurunegala,BTS Operation,,Chamara Prasanga,PC-4962,4 X 4 Double cab,3989,0,0,0,0,0,0,352652.06
+Prime,2025-12-01,Kurunegala,RND,,Amila Nagasinghe,PC-3390,Passenger Van,2758,0,0,0,0,0,0,203634.65
+Prime,2025-12-01,Matara,Civil,,Ravindra Wijesinghe,CAO-2620,Passenger Car,2184,0,0,0,0,0,0,142667.5
+Prime,2025-12-01,Matara,Sites Acquisition,,Azeem Azeez,CAW-8684,Passenger Car,2777,0,0,0,0,0,0,155786.3
+Prime,2025-12-01,Matara,BTS Operation,,Chamara Prasanga,PF-2260,4 X 4 Double cab,335.81,0,0,0,0,0,0,25882.03
+Prime,2025-12-01,Matara,BTS Operation,,Chamara Prasanga,PG-4274,Passenger Van,714,0,0,0,0,0,0,63540.77
+Prime,2025-12-01,Matara,BTS Operation,,Chamara Prasanga,JA-4926,Passenger Van,3487,0,0,0,0,0,0,204760.62
+Prime,2025-12-01,Panadura,Sites Acquisition,,Azeem Azeez,PK-5718,Van Field Use,2368,0,0,0,0,0,0,130023.37
+Prime,2025-12-01,Panadura,Power,,Ruwan Rathnasinghe,CAV-1171,Passenger Car,2454,0,0,0,0,0,0,142435
+Prime,2025-12-01,Panadura,BTS Operation,,Chamara Prasanga,CBD-3756,Passenger Car,1496,0,0,0,0,0,0,124512
+Prime,2025-12-01,Panadura,BTS Operation,,Chamara Prasanga,JW-4703,Passenger Van,2196,0,0,0,0,0,0,185912.59
+Prime,2025-12-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PD-4310,4 X 4 Double cab,3113,0,0,0,0,0,0,287192.56
+Prime,2025-12-01,Polonnaruwa,BTS Operation,,Chamara Prasanga,PB-1213,Passenger Van,3030,0,0,0,0,0,0,227439.66
+Prime,2025-12-01,Rathnapura,RND,,Amila Nagasinghe,CBF-6717,Passenger Car,1978,0,0,0,0,0,0,140249.5
+Prime,2025-12-01,Rathnapura,Sites Acquisition,,Azeem Azeez,CAY-8398,Passenger Car,2796,0,0,0,0,0,0,157116.9
+Prime,2025-12-01,Thanamalwila,BTS Operation,,Chamara Prasanga,PD-6017,4 X 4 Double cab,3341,0,0,0,0,0,0,301998.44
+CS Tours,2025-12-01,Thanamalwila,Civil,,Ravindra Wijesinghe,PJ-8253,Van Field Use,3046,0,0,0,0,0,0,159562.39
+Prime,2025-12-01,Nittambuwa,BTS Operation,,Chamara Prasanga,PB-3719,Van Field Use,1780,0,0,0,0,0,0,125624.4
+Prime,2025-12-01,Welikada,BTS Operation,,Chamara Prasanga,CAT-4615,Self-Driven Passenger Car,2113,0,0,0,0,0,0,84000
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAU-8614,Passenger Car,3377,0,0,0,0,0,0,173274.3
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAA-1612,Passenger Car,3079,0,0,0,0,0,0,175017.1
+Prime,2025-12-01,Welikada,Pool ,,Pool ,KN-5597,Passenger Car,3673,0,0,0,0,0,0,205879.52
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAQ-5544,Passenger Car,2921,0,0,0,0,0,0,146584.55
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAO-1292,Passenger Car,3213,0,0,0,0,0,0,183155.7
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAK-9887,Passenger Car,3642,0,0,0,0,0,0,206640.3
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CBJ-9817,Passenger Car,2920,0,0,0,0,0,0,159681.32
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAW-7120,Passenger Car,3418,0,0,0,0,0,0,188842.52
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CBC-0290,Passenger Car,3453,0,0,0,0,0,0,197558.7
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAU-7591,Passenger Car,3169,0,0,0,0,0,0,182023.6
+Prime,2025-12-01,Welikada,Pool ,,Pool ,CAZ-3165,Passenger Car,3134,0,0,0,0,0,0,183686.6
+Prime,2025-12-01,Welikada,Pool ,,Pool ,KX-8277,Passenger Car,2643,0,0,0,0,0,0,146655.52
+Shakya,2025-12-01,Welikada,Pool ,,Pool ,PA-1625,Van Field Use,3585,0,0,0,0,0,0,183962.46
+Shakya,2025-12-01,Welikada,Pool ,,Pool ,CAO-0269,Van Field Use,2706,0,0,0,0,0,0,119849.98
+Shakya,2025-12-01,Welikada,Pool ,,Pool ,CAB-0480,Passenger Car,2991,0,0,0,0,0,0,154102.5
+Prime,2025-12-01,Welikada,BTS Operation,,Chamara Prasanga,PC-4084,Self-Driven 4 X 4 Double cab,1896,0,0,0,0,0,0,146475
+Prime,2025-12-01,Welikada,BTS Operation,,Chamara Prasanga,PB-5250,4 X 4 Double cab,3199,0,0,0,0,0,0,277253.43
+Shakya,2025-12-01,Welikada,Transmission Operations,,Chamara Prasanga,CAT-1657,Self-Driven Passenger Car,1224,0,0,0,0,0,0,81500
+Shakya,2025-12-01,Welikada,Transmission Operations,,Chamara Prasanga,CAD-4201,Self-Driven Passenger Car,2080,0,0,0,0,0,0,84000
+Shakya,2025-12-01,Yatiyanthota,BTS Operation,,Chamara Prasanga,PA-4740,Passenger Van,2951,0,0,0,0,0,0,154296.59
+Owned,2025-12-01,Nittabuwa,BTS Operation,,,HI-9353,24 hrs 4X4 Double Cab,2397,0,0,2,180000,230.84,54188.01,0
+Owned,2025-12-01,Rathnapura,BTS Operation,,,HI-9355, 4X4 Double Cab,2933,0,0,1,90000,324.86,77154.33,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,KY-7354,Car,1415,0,0,1,90000,92,22922.78,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,KY-7361,Car,861,0,0,1,37500,34.37,8562.87,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,LN-3659,CREW CAB,2488,0,0,1,37500,402.54,94494.32,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,NA-9344,Passenger Van,3305,0,0,1,90000,462.02,108457.71,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,NA-9345,Passenger Van,2567,0,0,1,75000,320.34,75197.28,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,NA-9346,Passenger Van,4058,0,0,1,75000,339.23,79633.51,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,NA-9347,Passenger Van,0,0,0,1,75000,0,,0
+Owned,2025-12-01,Head Office,Network Audit,,,NB-6152,Passenger Van,205,0,0,1,90000,40.57,9522.46,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,NB-6153,Passenger Van,3873,0,0,2,180000,408.53,95901.16,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1022,Passenger Van,2162,0,0,1,90000,280.53,65853.46,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1023,Passenger Van,2929,0,0,1,90000,291.89,69830.06,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1024,Passenger Van,3654,0,0,1,75000,486.41,114182.92,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1026,Passenger Van,1441,0,0,1,90000,191.71,45003.35,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1090,Passenger Van,1484,0,0,1,90000,181.9,42700.49,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1289,Passenger Van,970,0,0,1,90000,138.03,32402.19,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1290,Passenger Van,254,0,0,1,30000,55.6,13051.86,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,ND-1618,Passenger Van,4642,0,0,1,90000,530.89,126545.81,0
+Owned,2025-12-01,Rathnapura,BTS Operation,,,PD-9893,24 hrs 4X4 Double Cab,5122,0,0,2,180000,599.07,140630.08,0
+Owned,2025-12-01,Galle,BTS Operation,,,PD-9894,24 hrs 4X4 Double Cab,5415,0,0,2,180000,600,148199.69,0
+Owned,2025-12-01,Badulla,BTS Operation,,,PD-9895,4X4 Double Cab,4680,0,0,1,90000,566,132866.1,0
+Owned,2025-12-01,Head Office RM,BTS Operation,,,PD-9896,24 hrs 4X4 Double Cab,1089,0,0,2,180000,157,36855.08,0
+Owned,2025-12-01,Thanamalwila,BTS Operation,,,PD-9899,24 hrs 4X4 Double Cab,7856,0,0,2,180000,824,228248,0
+Owned,2025-12-01,Kandy,BTS Operation,,,PD-9901,24 hrs 4X4 Double Cab,5049,0,0,2,180000,586.94,137781.68,0
+Owned,2025-12-01,Rathnapura,Power Operation,,,PD-9902,4X4 Double Cab,4884,0,0,1,90000,559.42,131321.48,0
+Owned,2025-12-01,Matara,BTS Operation,,,PD-9903,24 hrs 4X4 Double Cab,2555,0,0,2,180000,321.43,75455.03,0
+Owned,2025-12-01,Polonnaruwa,BTS Operation,,,PD-9904,24 hrs 4X4 Double Cab,6512,0,0,2,180000,692.27,194259.24,0
+Owned,2025-12-01,Chilaw,BTS Operation,,,PF-4362,24 hrs 4X4 Double Cab,7948,0,0,2,180000,800,221600,0
+Owned,2025-12-01,Homagama,BTS Operation,,,PF-4363,4X4 Double Cab,1526,0,0,,,188.07,44148.64,0
+Owned,2025-12-01,Yatiyanthota,BTS Operation,,,PF-4364,24 hrs 4X4 Double Cab,5217,0,0,2,180000,562.37,132013.97,0
+Owned,2025-12-01,Panadura,BTS Operation,,,PF-5697,4X4 Double Cab,2083,0,0,,,238.45,55973.95,0
+Owned,2025-12-01,Anuradhapura,BTS Operation,,,PF-5698,24 hrs 4X4 Double Cab,5950,0,0,2,180000,480.44,112782.19,0
+Owned,2025-12-01,Matara/Hakmana,BTS Operation,,,PF-5699,24 hrs 4X4 Double Cab,6160,0,0,2,180000,592,138969.49,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,PF-5700,4X4 Double Cab,3374,0,0,1,90000,408.61,95919,0
+Owned,2025-12-01,Kandy,BTS Operation,,,PF-5702,24 hrs 4X4 Double Cab,6083,0,0,2,180000,599.7,140777.03,0
+Owned,2025-12-01,Rathnapura,BTS Operation,,,PF-5703,24 hrs 4X4 Double Cab,3717,0,0,2,180000,345,80987.29,0
+Owned,2025-12-01,Ampara,BTS Operation,,,PF-5704,24 hrs 4X4 Double Cab,7949,0,0,2,180000,680,188360,0
+Owned,2025-12-01,Kurunegala,BTS Operation,,,PF-5705,24 hrs 4X4 Double Cab,6130,0,0,2,180000,550.99,129342.57,0
+Owned,2025-12-01,Badulla,BTS Operation,,,PF-5706,24 hrs 4X4 Double Cab,3495,0,0,2,180000,433,101644.92,0
+Owned,2025-12-01,Panadura,BTS Operation,,,PI-2755,4X4 Double Cab,2668,0,0,,,268.84,63109.99,0
+Owned,2025-12-01,Weeraketiya,BTS Operation,,,PI-2756,24 hrs 4X4 Double Cab,7676,0,0,2,180000,731,206362.22,0
+Owned,2025-12-01,Jaffna,BTS Operation,,,PI-2758,24 hrs 4X4 Double Cab,7390,0,0,2,180000,799.22,215381.67,0
+Owned,2025-12-01,Head Office,Head Office Pool,,,PI-2759,4X4 Double Cab,4168,0,0,2,180000,496.92,138577.12,0
+Owned,2025-12-01,Head Office,Administration,,,BFD-2154,Motorcycle,987,0,0,,0,21.82,5436.51,0
+Owned,2025-12-01,Head Office,Administration,,,BFD-2166,Motorcycle,1089,0,0,,0,26.85,6688.75,0
+Owned,2025-12-01,Head Office,Administration,,,BFD-2177,Motorcycle,625,0,0,,0,22.71,5658.75,0
+Owned,2025-12-01,Head Office,Administration,,,BFD-2190,Motorcycle,1765,0,0,,0,30,7474.58,0
+Owned,2025-12-01,Head Office,Supply chain management,,,BFD-2194,Motorcycle,1249,0,0,,0,49.99,12453.89,0
+Owned,2025-12-01,Head Office,Administration,,,BFD-2258,Motorcycle,735,0,0,,0,20,4983.05,0
+Owned,2025-12-01,Head Office,Network Planning and operation,,,BFD-2274,Motorcycle,1736,0,0,,0,30,7474.58,0
+Owned,2025-12-01,Head Office,Administration,,,BFD-2292,Motorcycle,1074,0,0,,0,42.92,10692.38,0
+Owned,2025-12-01,Head Office,Corporate Affairs,,,BFD-2302,Motorcycle,1207,0,0,,0,38,9467.8,0
+Owned,2025-12-01,Head Office,Finance,,,BFD-2320,Motorcycle,1566,0,0,,0,42.73,10645.29,0
+Owned,2025-12-01,Head Office,Administration,,,BHI-8224,Motorcycle,1495,0,0,,0,30,7474.58,0
