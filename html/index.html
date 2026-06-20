@@ -207,6 +207,116 @@
     transform: translateX(0);
   }
 
+  /* ── DASHBOARD SELECTOR (SLT / Mobitel) ── */
+  .dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+  }
+  @media (max-width: 720px) {
+    .dashboard-grid { grid-template-columns: 1fr; }
+  }
+
+  .dashboard-card {
+    background: var(--card-bg);
+    border-radius: 22px;
+    padding: 56px 36px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    border: 1.5px solid rgba(108,59,170,0.1);
+    box-shadow: 0 2px 16px rgba(108,59,170,0.06);
+    transition: all 0.25s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .dashboard-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--royal), var(--electric));
+    opacity: 0;
+    transition: opacity 0.25s ease;
+  }
+  .dashboard-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 14px 40px rgba(108,59,170,0.18);
+    border-color: rgba(166,110,255,0.4);
+  }
+  .dashboard-card:hover::before { opacity: 1; }
+
+  .dashboard-logo-placeholder {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, rgba(108,59,170,0.08), rgba(166,110,255,0.12));
+    border: 1.5px dashed rgba(108,59,170,0.35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: all 0.25s ease;
+  }
+  .dashboard-card:hover .dashboard-logo-placeholder {
+    border-color: var(--electric);
+    background: linear-gradient(135deg, rgba(108,59,170,0.12), rgba(166,110,255,0.18));
+  }
+  .dashboard-logo-placeholder svg {
+    width: 52px;
+    height: 52px;
+    color: var(--royal-light);
+  }
+  /* If a real logo image is dropped in, fill the circle cleanly */
+  .dashboard-logo-placeholder img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 50%;
+    padding: 14px;
+  }
+
+  .dashboard-name {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    letter-spacing: -0.01em;
+  }
+  .dashboard-sub {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: var(--text-mid);
+    margin-top: 15px;
+  }
+
+  .dashboard-cta {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--electric);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dashboard-cta svg {
+    width: 16px;
+    height: 16px;
+    transform: translateX(0);
+    transition: transform 0.22s ease;
+  }
+  .dashboard-card:hover .dashboard-cta svg {
+    transform: translateX(4px);
+  }
+
 </style>
 </head>
 <body>
@@ -230,208 +340,44 @@
 <!-- ══════════ CONTENT ══════════ -->
 <div class="content">
 
-  <!-- SECTION 1 -->
-  <div class="section-label">Cost Structure Overview</div>
-  <div class="grid">
+  <!-- SECTION: Dashboard Selector -->
+  <div class="section-label">Select Dashboard</div>
+  <div class="dashboard-grid">
 
-    <!-- 1. Geographical Cost Distribution -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/13/?standalone=2">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="10" r="4"/><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/>
-          <path d="M5 9h14M8 5.5C9 7 10.5 8 12 8s3-1 4-2.5M8 12.5c1 1.5 2.5 2.5 4 2.5s3-1 4-2.5"/>
+    <!-- SLT Dashboard -->
+    <a class="dashboard-card" href="slt.html">
+        <!-- Logo placeholder: replace this SVG with an <img src="your-logo.png"> when ready -->
+      <img src="https://i.postimg.cc/xTXsWgBT/slt.png" alt="" style="width: 75%">
+
+      <div>
+        <div class="dashboard-name">SLT Dashboard</div>
+        <div class="dashboard-sub">Sri Lanka Telecom operational insights</div>
+      </div>
+      <div class="dashboard-cta">
+        Open Dashboard
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
         </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">01</div>
-        <div class="card-title">Geographical Cost Distribution</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <!-- 2. Divisional Cost Distribution -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/14/?standalone=2">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>
-          <rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/>
-          <line x1="10" y1="6.5" x2="14" y2="6.5"/><line x1="10" y1="17.5" x2="14" y2="17.5"/>
-          <line x1="6.5" y1="10" x2="6.5" y2="14"/><line x1="17.5" y1="10" x2="17.5" y2="14"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">02</div>
-        <div class="card-title">Divisional Cost Distribution</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <!-- 3. Geographical Insights -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/3/?standalone=2">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M3 12h4l3-9 4 18 3-9h4"/><circle cx="12" cy="12" r="1" fill="white"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">03</div>
-        <div class="card-title">Geographical Insights</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <!-- 4. Supplier wise Summary -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/5/?standalone=2">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
-          <circle cx="9" cy="7" r="4"/>
-          <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
-          <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
-          <line x1="12" y1="17" x2="16" y2="17"/>
-          <line x1="14" y1="15" x2="14" y2="19"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">04</div>
-        <div class="card-title">Supplier wise Summary</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-  </div><!-- /grid -->
-
-  <!-- SECTION 2 -->
-  <div class="section-label">Key Performance Indicators (KPIs)</div>
-  <div class="grid grid-2">
-
-    <!-- 1. Overall Operational Cost per KM -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/7/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="9"/>
-          <path d="M12 8v4l3 3"/>
-          <path d="M9 3.6C6.5 4.8 4.8 6.5 3.6 9"/>
-          <path d="M15 3.6c2.5 1.2 4.2 2.9 5.4 5.4"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">KPI 01</div>
-        <div class="card-title">Overall Operational Cost per KM</div>
       </div>
     </a>
 
-    <!-- 2. Location-wise Cost Pattern & Outlier Analysis -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/6/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
-          <circle cx="20" cy="6" r="2" fill="white" stroke="white"/>
-        </svg>
+    <!-- Mobitel Dashboard -->
+    <a class="dashboard-card" href="mobitel.html">
+        <!-- Logo placeholder: replace this SVG with an <img src="your-logo.png"> when ready -->
+        <img src="https://i.postimg.cc/Pqj2vHJX/mobitel.jpg" alt="" style="width: 75%">
+      <div>
+        <div class="dashboard-name">Mobitel Dashboard</div>
+        <div class="dashboard-sub">Mobitel operational insights</div>
       </div>
-      <div class="card-body">
-        <div class="card-num">KPI 02</div>
-        <div class="card-title">Location-wise Cost Pattern &amp; Outlier Analysis</div>
+      <div class="dashboard-cta">
+        Open Dashboard
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
+        </svg>
       </div>
     </a>
 
-    <!-- 3. Division-wise Fleet Cost Pattern & Outlier Analysis -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/8/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="2" y="14" width="4" height="7"/><rect x="9" y="9" width="4" height="12"/>
-          <rect x="16" y="4" width="4" height="17"/>
-          <circle cx="21" cy="4" r="1.5" fill="#fff" stroke="none"/>
-          <path d="M21 4 L18 6" stroke="white" stroke-width="1.5"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">KPI 03</div>
-        <div class="card-title">Division-wise Fleet Cost Pattern &amp; Outlier Analysis</div>
-      </div>
-    </a>
-
-    <!-- 4. Owned Vehicle Cost Driver Analysis -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/10/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M5 17H3a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v3"/>
-          <rect x="9" y="11" width="14" height="10" rx="2"/>
-          <circle cx="12" cy="16" r="1.5" fill="white"/>
-          <circle cx="20" cy="16" r="1.5" fill="white"/>
-          <path d="M9 13h14"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">KPI 04</div>
-        <div class="card-title">Owned Vehicle Cost Driver Analysis</div>
-      </div>
-    </a>
-
-    <!-- 5. Supplier-wise Outsourced Vehicle Cost Driver Analysis -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/11/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="5" r="3"/>
-          <path d="M12 8v3M9 14h6"/>
-          <path d="M5 20c0-3.87 3.13-7 7-7s7 3.13 7 7"/>
-          <path d="M5 14l-2 4M19 14l2 4"/>
-          <circle cx="4" cy="10" r="2"/>
-          <circle cx="20" cy="10" r="2"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">KPI 05</div>
-        <div class="card-title">Supplier-wise Outsourced Vehicle Cost Driver Analysis</div>
-      </div>
-    </a>
-
-    <!-- 6. Fleet Fuel Efficiency and Supplier Utilization -->
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/12/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M3 22V8l9-6 9 6v14"/>
-          <path d="M9 22v-6h6v6"/>
-          <path d="M9 10h6"/>
-          <path d="M19 8l2 2-2 2"/>
-          <path d="M21 10h-3"/>
-          <circle cx="19" cy="16" r="2"/>
-          <path d="M17 16h-1"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">KPI 06</div>
-        <div class="card-title">Fleet Fuel Efficiency</div>
-      </div>
-    </a>
-
-    <a class="card" href="http://132.145.145.252:8088/superset/dashboard/15/?standalone=3">
-      <div class="icon-bubble">
-        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <!-- BTS tower mast -->
-          <line x1="12" y1="2" x2="12" y2="14"/>
-          <!-- Tower arms -->
-          <line x1="9" y1="6" x2="15" y2="6"/>
-          <line x1="10" y1="9" x2="14" y2="9"/>
-          <!-- Signal arcs from top -->
-          <path d="M9 3.5 A4 4 0 0 1 15 3.5" stroke="white" stroke-width="1.6" fill="none" opacity="0.6"/>
-          <path d="M7 2 A7 7 0 0 1 17 2" stroke="white" stroke-width="1.4" fill="none" opacity="0.35"/>
-          <!-- Base legs -->
-          <path d="M12 14 L8 20"/>
-          <path d="M12 14 L16 20"/>
-          <line x1="7" y1="20" x2="17" y2="20"/>
-          <!-- Cost bars bottom-right -->
-          <rect x="15" y="15" width="2" height="4" rx="0.4" fill="white" stroke="none" opacity="0.9"/>
-          <rect x="18" y="13" width="2" height="6" rx="0.4" fill="white" stroke="none" opacity="0.7"/>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="card-num">KPI 07</div>
-        <div class="card-title">BTS Operational Cost Overview</div>
-      </div>
-    </a>
-
-  </div><!-- /grid -->
+  </div><!-- /dashboard-grid -->
 
 </div><!-- /content -->
 
