@@ -1,0 +1,27 @@
+Executive Summary — Data refinement and consolidation for fleet cost visibility
+
+Purpose
+- Produce a single, reliable dataset that consolidates monthly cost and usage information for every vehicle so leadership has a clear view of fleet operating costs.
+
+Scope
+- Combines data from multiple sources: monthly financial payments, maintenance and repair charges, driver salaries, fuel usage and fuel costs, and vehicle usage (kilometres).
+
+Key actions taken
+- Collected and aligned disparate source files by vehicle and month.
+- Cleaned and standardized data values to remove inconsistencies and blanks.
+- Mapped monthly figures into a single per-vehicle, per-month record.
+- Produced a consolidated output file that captures each vehicle’s monthly costs and usage metrics.
+
+Primary deliverable
+- A clean, month-by-month, per-vehicle dataset that serves as the authoritative source for fleet cost reporting and analysis.
+
+Business benefits
+- Clear visibility of total cost of ownership per vehicle (maintenance + fuel + drivers + rentals).
+- Faster identification of high-cost vehicles or months for targeted cost-control actions.
+- Reliable input for budgeting, forecasting, and supplier negotiations.
+- Supports operational decisions such as redeploying, retiring, or renegotiating contracts.
+
+Recommended next steps for management
+- Publish the dataset to an executive dashboard (trends, cost breakdowns, per-vehicle ranking).
+- Run targeted analyses to find the biggest saving opportunities (fuel efficiency, maintenance vs replacement).
+- Share with Finance and Operations to set cost-reduction targets and monitor monthly progress.
